@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600;700;900&display=swap');
+
 :root {
     --green: #04B69B;
     --blue: #1FA6C0;
@@ -13,4 +15,16 @@
     --font-size-sm: 16px;
     --font-size-xs: 14px;
 
+    --font: 'Inter', sans-serif
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: var(--font);
+    background-color: var(--dark-gray);
+    color: var(--white);
 }
