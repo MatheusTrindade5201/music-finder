@@ -18,8 +18,8 @@
 
 .form__left {
     display: none;
-    padding-right: 24px;
     position: relative;
+    max-width: 386px;
 }
 
 .form__left::after {
@@ -96,6 +96,8 @@
     background-color: var(--light-blue);
 }
 
-@media screen and (min-width:800px) {
-        
+@media screen and (min-width: 800px) {
+    .form__left {
+        display: block;
+    }
 }
