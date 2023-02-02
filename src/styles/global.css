@@ -1,0 +1,16 @@
+:root {
+    --green: #04B69B;
+    --blue: #1FA6C0;
+    --light-blue: #6FC0CF;
+    --extra-light-blue: #D0ECF1;
+    --gray: #9F9F9F;
+    --dark-gray: #414547;
+    --white: #FFFFFF;
+
+    --font-size-xg: 48px;
+    --font-size-lg: 36px;
+    --font-size-md: 24px;
+    --font-size-sm: 16px;
+    --font-size-xs: 14px;
+
+}
