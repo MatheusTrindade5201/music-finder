@@ -1,0 +1,75 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 50px 0 40px 0;
+}
+
+.footer__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    gap: 16px;
+    max-width: 1165px;
+}
+
+.copyright {
+    justify-self: center;
+    order: 2;
+    font-size: var(--font-size-xs);
+}
+
+.footer__links {
+    display: flex;
+    gap: 38px;
+
+}
+
+.link {
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    transition: .2s;
+}
+
+.linkedin {
+    background-image: url('src/assets/images/Linkedin.svg');
+}
+
+.linkedin:hover {
+    background-image: url('src/assets/images/LinkedIn_hover.svg');
+}
+
+.github {
+    background-image: url('src/assets/images/GitHub.svg');
+}
+
+.github:hover {
+    background-image: url('src/assets/images/GitHub_hover.svg');
+}
+
+@media screen and (min-width: 600px) {
+    .footer__content {
+        display: grid;
+        grid-template-rows: 1fr;
+        grid-template-columns: 1fr 1.5fr 1fr;
+    }
+
+    .copyright {
+        order: unset;
+        justify-self: center;
+        grid-column: 2;
+    }
+
+    .footer__links {
+        justify-self: flex-end;
+        grid-column: 3;
+    }
+    
+}
