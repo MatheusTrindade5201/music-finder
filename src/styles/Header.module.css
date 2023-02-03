@@ -24,6 +24,10 @@
 }
 
 .header__profile {
+    position: relative;
+}
+
+.header__profile_container {
     display: flex;
     align-items: center;
 }
@@ -38,12 +42,43 @@
     align-items: center;
 }
 
+.logout__button {
+    position: absolute;
+    bottom: -40px;
+    width: 100%;
+    padding: 7px 0;
+    border: none;
+    border-radius: 8px;
+    background-color: var(--white);
+    color: var(--dark-gray);
+    width: 100%;
+    display: none;
+    transition: all 1s ease;
+}
+
+.dropdown {
+    display: block;
+    animation: growDown ease-in-out 300ms;
+}
+
+@keyframes growDown {
+    0% {
+        transform: scale(0)
+    }
+    80% {
+        transform: scale(1.2)
+    }
+    100% {
+        transform: scale(1)
+    }
+}
+
 @media screen and (min-width: 500px) {
     .username {
         display: block;
     }
 
-    .header__profile {
+    .header__profile_container {
         gap: 8px; 
     }
     

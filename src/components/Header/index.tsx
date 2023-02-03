@@ -1,15 +1,25 @@
 import style from '@/styles/Header.module.css'
+import { useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 import LinkButton from './LinkButton'
 
 const Header = () => {
+
+    const [ open, setOpen ] = useState<boolean>(true)
+
+    const navigate = useNavigate()
+
     return (
         <header className={style.header}>
             <div className={style.header__content}>
                 <span className={style.header__logo} />
-                <div className={style.header__profile}>
-                    <img className={style.picture} src='src/assets/images/profile_icon.svg'/>
-                    <p className={style.username}>Usiário01</p>
-                </div> 
+                <div onClick={() => setOpen(open ? false : true)} className={style.header__profile}>
+                    <div  className={style.header__profile_container}>
+                        <img className={style.picture} src='src/assets/images/profile_icon.svg'/>
+                        <p className={style.username}>Usiário01</p>
+                    </div> 
+                    <button className={`${style.logout__button} ${open ? style.dropdown : ''}`} onClick={() => navigate('/')}>Sair</button>
+                </div>
                 <nav className={style.header__links}>
                     <LinkButton 
                         path={'/music-list'}
