@@ -1,5 +1,3 @@
-import Footer from '@/components/Footer';
-import Header from '@/components/Header';
 import style from '@/styles/MusicList.module.css'
 import { useState } from 'react'
 
