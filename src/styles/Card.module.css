@@ -24,13 +24,17 @@
     padding: 0 7px;
 }
 
+.card__title, .card__author {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
 .card__title {
     font-size: var(--font-size-sm);
 }
 
 .card__author {
-    font-size: var(--font-size-xm);
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
+    font-size: var(--font-size-xs);
+    font-weight: 400;
 }
