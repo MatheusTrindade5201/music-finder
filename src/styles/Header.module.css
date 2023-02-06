@@ -1,0 +1,94 @@
+.header {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 14px;
+}
+
+.header__content {
+    display: flex;
+    width: 80% ;
+    max-width: 1165px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__logo {
+    background-image: url('src/assets/images/Logo_Mobile.png');
+    display: block;
+    width: 37px;
+    height: 64px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.header__profile {
+    position: relative;
+}
+
+.header__profile_container {
+    display: flex;
+    align-items: center;
+}
+
+.username {
+    display: none;
+}
+
+.header__links {
+    display: flex;
+    gap: 18px;
+    align-items: center;
+}
+
+.logout__button {
+    position: absolute;
+    bottom: -40px;
+    width: 100%;
+    padding: 7px 0;
+    border: none;
+    border-radius: 8px;
+    background-color: var(--white);
+    color: var(--dark-gray);
+    width: 100%;
+    display: none;
+    transition: all 1s ease;
+}
+
+.dropdown {
+    display: block;
+    animation: growDown ease-in-out 300ms;
+}
+
+@keyframes growDown {
+    0% {
+        transform: scale(0)
+    }
+    80% {
+        transform: scale(1.2)
+    }
+    100% {
+        transform: scale(1)
+    }
+}
+
+@media screen and (min-width: 500px) {
+    .username {
+        display: block;
+    }
+
+    .header__profile_container {
+        gap: 8px; 
+    }
+    
+}
+
+@media screen and (min-width: 800px) {
+    .header__logo {
+        background-image: url('src/assets/images/Logo_Desktop.png');
+        width: 133px;
+        height: 55px;
+    }
+    
+}
