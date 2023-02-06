@@ -1,0 +1,34 @@
+.musicList__page {
+    display: flex;
+    justify-content: center;
+}
+
+.musicList__container {
+    position: relative;
+    margin-top: 70px;
+    display: flex;
+    column-gap: 24px;
+    row-gap: 35px;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+    height: calc(100vh - 153px - 70px - 80px);
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    justify-content: center;
+    width: 90%;
+    max-width: 1165px;
+}
+
+.musicList__container::-webkit-scrollbar {
+    display: none;
+  }
+
+.musicList__container::after {
+    content: '';
+    position: sticky;
+    display: block;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(transparent, var(--dark-gray));
+}
