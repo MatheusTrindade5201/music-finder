@@ -35,6 +35,14 @@
     background: linear-gradient(transparent, var(--dark-gray));
 }
 
+
+.musicList__noMusic {
+    font-size: var(--font-size-xg);
+    font-weight: 400;
+    color: var(--gray);
+    text-align: center;
+}
+
 .loading {
     position: relative;
     width: 127px;

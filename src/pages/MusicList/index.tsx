@@ -5,7 +5,7 @@ import { useState } from 'react'
 
 const MusicList = () => {
 
-    const [ isLoading, setIsLoading ] = useState<boolean>(true);
+    const [ isLoading, setIsLoading ] = useState<boolean>(false);
     const [ list, setList ] = useState<Array<object>>([]);
 
     if(isLoading){
@@ -16,6 +16,13 @@ const MusicList = () => {
         )
     }
 
+    if(!isLoading && list.length===0) {
+        return (
+            <main className={style.musicList__page}>
+                <h3 className={style.musicList__noMusic}>Nenhuma música salva.</h3>
+            </main>
+        )
+    }
 
     return (
         <main className={style.musicList__page}>
