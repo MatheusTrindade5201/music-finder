@@ -5,7 +5,7 @@ import LinkButton from './LinkButton'
 
 const Header = () => {
 
-    const [ open, setOpen ] = useState<boolean>(true)
+    const [ open, setOpen ] = useState<boolean>(false)
 
     const navigate = useNavigate()
 
