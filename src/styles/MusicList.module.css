@@ -1,0 +1,68 @@
+.musicList__page {
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.musicList__container {
+    position: relative;
+    margin-top: 70px;
+    display: flex;
+    column-gap: 24px;
+    row-gap: 35px;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+    height: calc(100vh - 153px - 70px - 80px);
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    justify-content: center;
+    width: 90%;
+    max-width: 1165px;
+}
+
+.musicList__container::-webkit-scrollbar {
+    display: none;
+  }
+
+.musicList__container::after {
+    content: '';
+    position: sticky;
+    display: block;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background: linear-gradient(transparent, var(--dark-gray));
+}
+
+
+.musicList__noMusic {
+    font-size: var(--font-size-xg);
+    font-weight: 400;
+    color: var(--gray);
+    text-align: center;
+}
+
+.loading {
+    position: relative;
+    width: 127px;
+    height: 127px;
+    margin: auto;	
+    border: double 10px transparent;
+    border-radius: 100%;
+    background-image: linear-gradient(var(--dark-gray), var(--dark-gray)), radial-gradient(circle at top,  var(--dark-gray) 30%, var(--green), var(--blue));
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    animation: infinite rotate 800ms;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+    
+}
