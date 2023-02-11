@@ -1,11 +1,15 @@
+import { searchEmail } from '@/service/login';
 import style from '@/styles/Form.module.css'
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import InputField from './component/inputField';
 
 const Input = () => {
 
     const [ email, setEmail ] = useState<string>('')
     const [ password, setPassword ] = useState<string>('')
+
+    const navigate = useNavigate()
 
     return (
         <form className={style.input__container}>
@@ -25,8 +29,9 @@ const Input = () => {
             />
             
             <button 
-                onSubmit={(event) => {
+                onClick={(event) => {
                     event.preventDefault();
+                    searchEmail({password, email, navigate})
                 }} 
                 type='submit'
                 className={style.form__button}
