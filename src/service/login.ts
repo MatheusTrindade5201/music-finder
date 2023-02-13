@@ -26,23 +26,3 @@ export const  searchEmail = async ({password, email, navigate} : searchProps) =>
         alert('Email ou senha invalidos')      
     }
 }
-
-interface validateProps {
-    email: string,
-    password: string,
-    dataEmails: string,
-    dataPassword: string
-}
-
-/* const validateLogin = ({dataEmails, dataPassword, email, password }: validateProps) => {
-    if(dataEmails === email && dataPassword === password){
-        usenavigate("/app")
-    }
-    else{
-        alert("Error")
-    }
-}
-
- */
-
-/* view-source:http://localhost:3000/usuarios?password=teste123&email=teste@hotmail.com */
