@@ -18,7 +18,7 @@ export const  searchEmail = async ({password, email, navigate} : searchProps) =>
         const dataEmail:string = await data.data[0].email
         const dataPassword: string = await data.data[0].password
         if(dataEmail === email && dataPassword === password){
-           navigate('/app')
+           navigate('/app/music-list')
         }
 
     } catch (error) {

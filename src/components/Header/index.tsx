@@ -22,12 +22,12 @@ const Header = () => {
                 </div>
                 <nav className={style.header__links}>
                     <LinkButton 
-                        path={'/music-list'}
+                        path={'/app/music-list'}
                         imagePath={'/src/assets/images/list_icon.svg'}
                         buttonText={'Lista de música'}
                     />
                     <LinkButton 
-                        path={'/dicovery'}
+                        path={'/app/discover'}
                         imagePath={'/src/assets/images/plus_icon.svg'}
                         buttonText={'Nova música'}
                     />
