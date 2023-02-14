@@ -8,12 +8,12 @@ export const musicList = axios.create({
 
 
 interface Props {
-    setList: React.Dispatch<React.SetStateAction<Music[]>>,
+    setMusicList: React.Dispatch<React.SetStateAction<Music[]>>,
     setIsLoading: React.Dispatch<React.SetStateAction<boolean>>
 }
 
-export const getMusicList = async ({setList, setIsLoading} : Props) => {
+export const getMusicList = async ({setMusicList, setIsLoading} : Props) => {
     musicList.get('/')
-    .then(response => setList(response.data))
+    .then(response => setMusicList(response.data))
     .then(() => setIsLoading(false))
 }

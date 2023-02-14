@@ -2,8 +2,8 @@ import { Music } from "@/types/Music";
 import { createContext, useState } from "react";
 
 interface ContextProps {
-    list: Music[],
-     setList: React.Dispatch<React.SetStateAction<Music[]>>
+    musicList: Music[],
+    setMusicList: React.Dispatch<React.SetStateAction<Music[]>>
 }
 
 export const MusicListContext = createContext({} as ContextProps)
@@ -16,10 +16,10 @@ interface Props {
 
 export const MusicListProvider = ({children} : Props) => {
 
-    const [ list, setList ] = useState<Array<Music>>([]);
+    const [ musicList, setMusicList ] = useState<Array<Music>>([]);
 
     return (
-        <MusicListContext.Provider value={{setList, list}}>
+        <MusicListContext.Provider value={{musicList, setMusicList}}>
             {children}
         </MusicListContext.Provider>
     )

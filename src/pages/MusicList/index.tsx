@@ -7,10 +7,10 @@ import { useContext, useEffect, useState } from 'react'
 const MusicList = () => {
 
     const [ isLoading, setIsLoading ] = useState<boolean>(true);
-    const { setList, list } = useContext(MusicListContext)
+    const { musicList, setMusicList } = useContext(MusicListContext)
 
     useEffect(() => {
-        getMusicList({setList, setIsLoading});
+        getMusicList({setMusicList, setIsLoading});
     },[])
 
     if(isLoading){
@@ -21,7 +21,7 @@ const MusicList = () => {
         )
     }
 
-    if(!isLoading && list.length===0) {
+    if(!isLoading && musicList.length===0) {
         return (
             <main className={style.musicList__page}>
                 <h3 className={style.musicList__noMusic}>Nenhuma música salva.</h3>
@@ -32,7 +32,7 @@ const MusicList = () => {
     return (
         <main className={style.musicList__page}>
             <div className={style.musicList__container}>
-                {list.map(music => <Card 
+                {musicList.map(music => <Card 
                      title={music.title}
                      key={music.key}
                      author={music.subtitle}
