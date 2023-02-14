@@ -15,7 +15,7 @@ const Header = () => {
                 <span className={style.header__logo} />
                 <div onClick={() => setOpen(open ? false : true)} className={style.header__profile}>
                     <div  className={style.header__profile_container}>
-                        <img className={style.picture} src='src/assets/images/profile_icon.svg'/>
+                        <img className={style.picture} src='/src/assets/images/profile_icon.svg'/>
                         <p className={style.username}>Usiário01</p>
                     </div> 
                     <button className={`${style.logout__button} ${open ? style.dropdown : ''}`} onClick={() => navigate('/')}>Sair</button>
@@ -23,12 +23,12 @@ const Header = () => {
                 <nav className={style.header__links}>
                     <LinkButton 
                         path={'/music-list'}
-                        imagePath={'src/assets/images/list_icon.svg'}
+                        imagePath={'/src/assets/images/list_icon.svg'}
                         buttonText={'Lista de música'}
                     />
                     <LinkButton 
                         path={'/dicovery'}
-                        imagePath={'src/assets/images/plus_icon.svg'}
+                        imagePath={'/src/assets/images/plus_icon.svg'}
                         buttonText={'Nova música'}
                     />
                 </nav>
