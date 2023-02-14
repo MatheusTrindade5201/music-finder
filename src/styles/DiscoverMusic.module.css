@@ -1,0 +1,67 @@
+.discoverMusic__page {
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.discoverMusic__button {
+    display: block;
+    width: 269px;
+    height: 269px;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.25);
+    border-radius: 100%;
+    background-color: var(--dark-gray);
+    border: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.red__button {
+    display: block;
+    width: 146px;;
+    height: 146px;
+    background-color: var(--red);
+    border-radius: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all .2s;
+}
+
+.active {
+    border-radius: 20px;
+    transition-duration: .2s;
+    -o-transition-duration: .2s ;
+    -moz-transition-duration: .2s ;
+    -webkit-transition-duration: .2s;
+}
+
+.active::after {
+    content: '';
+    position: absolute;
+    display: block;
+    width: 169px;;
+    height: 169px;
+    background-color: var(--red);
+    opacity: .4;
+    border-radius: 20%;
+    animation: infinite 1000ms pulse;
+}
+
+@keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+  
+    50% {
+      transform: scale(1.1);
+    }
+  
+    100% {
+      transform: scale(1);
+    }
+  }
