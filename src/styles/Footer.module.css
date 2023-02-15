@@ -39,19 +39,19 @@
 }
 
 .linkedin {
-    background-image: url('src/assets/images/Linkedin.svg');
+    background-image: url('/src/assets/images/Linkedin.svg');
 }
 
 .linkedin:hover {
-    background-image: url('src/assets/images/LinkedIn_hover.svg');
+    background-image: url('/src/assets/images/LinkedIn_hover.svg');
 }
 
 .github {
-    background-image: url('src/assets/images/GitHub.svg');
+    background-image: url('/src/assets/images/GitHub.svg');
 }
 
 .github:hover {
-    background-image: url('src/assets/images/GitHub_hover.svg');
+    background-image: url('/src/assets/images/GitHub_hover.svg');
 }
 
 @media screen and (min-width: 600px) {
