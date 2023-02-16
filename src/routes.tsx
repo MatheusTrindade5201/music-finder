@@ -4,6 +4,7 @@ import { MusicListProvider } from "./context/musicListContext"
 import Login from "./pages/Login"
 import MusicList from "./pages/MusicList"
 import StandardPage from "./pages/StandardPage"
+import MusicDetailPage from "./pages/MusicDetails"
 
 const AppRoutes = () => {
   return (
@@ -14,6 +15,7 @@ const AppRoutes = () => {
             <Route path="/app" element={<StandardPage />}>
               <Route path="/app/music-list" element={<MusicList />}/>
               <Route path="/app/discover" element={<DicoverMusicPage />} />
+              <Route path="/app/:id" element={<MusicDetailPage />}/>
             </Route>
         </Routes>
       </MusicListProvider>
