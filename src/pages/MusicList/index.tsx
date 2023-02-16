@@ -33,6 +33,7 @@ const MusicList = () => {
         <main className={style.musicList__page}>
             <div className={style.musicList__container}>
                 {musicList.map(music => <Card 
+                     id={music.key}
                      title={music.title}
                      key={music.key}
                      author={music.subtitle}
