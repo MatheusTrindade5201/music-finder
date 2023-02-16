@@ -319,6 +319,3765 @@
                 "tabname": "Related"
               }
             ]
+          },
+          {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "40469514",
+            "title": "Hey Oh (Radio Edit)",
+            "subtitle": "Tragédie",
+            "images": {
+              "background": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/24/7f/af/247fafca-2813-01ed-fef4-439f1cf9e3de/pr_source.png/800x800cc.jpg",
+              "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/64/16/78/641678fc-f315-d02d-93e4-46d147d026b9/3283451105624.jpg/400x400cc.jpg",
+              "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/64/16/78/641678fc-f315-d02d-93e4-46d147d026b9/3283451105624.jpg/400x400cc.jpg",
+              "joecolor": "b:ffffffp:0f0d0ds:2d333bt:3f3d3eq:575c62"
+            },
+            "share": {
+              "subject": "Hey Oh (Radio Edit) - Tragédie",
+              "text": "I used Shazam to discover Hey Oh (Radio Edit) by Tragédie.",
+              "href": "https://www.shazam.com/track/40469514/hey-oh-radio-edit",
+              "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/64/16/78/641678fc-f315-d02d-93e4-46d147d026b9/3283451105624.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Hey Oh (Radio Edit) by Tragédie.",
+              "html": "https://www.shazam.com/snippets/email-share/40469514?lang=en-US&country=US",
+              "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/24/7f/af/247fafca-2813-01ed-fef4-439f1cf9e3de/pr_source.png/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/40469514"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1483612772"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/fe/64/84/fe648467-0338-60e2-684d-f42af748e8b4/mzaf_16359235153734612956.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/hey-oh-radio-edit/1483612768?i=1483612772&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/hey-oh-radio-edit/1483612768?i=1483612772&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/hey-oh-radio-edit/1483612768?i=1483612772&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "buy",
+                    "providername": "itunes"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:Hey%20Oh%20%28Radio%20Edit%29%20Trag%C3%A9die"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Hey+Oh+%28Radio+Edit%29%27%20artist%3A%27Trag%C3%A9die%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": false,
+              "displayname": "APPLE MUSIC"
+            },
+            "url": "https://www.shazam.com/track/40469514/hey-oh-radio-edit",
+            "artists": [
+              {
+                "id": "42",
+                "adamid": "15028595"
+              }
+            ],
+            "isrc": "FR33Y0300022",
+            "genres": {
+              "primary": "R&B/Soul"
+            },
+            "urlparams": {
+              "{tracktitle}": "Hey+Oh+%28Radio+Edit%29",
+              "{trackartist}": "Trag%C3%A9die"
+            },
+            "myshazam": {
+              "apple": {
+                "actions": [
+                  {
+                    "name": "myshazam:apple",
+                    "type": "uri",
+                    "uri": "https://music.apple.com/us/album/hey-oh-radio-edit/1483612768?i=1483612772&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                  }
+                ]
+              }
+            },
+            "albumadamid": "1483612768",
+            "sections": [
+              {
+                "type": "SONG",
+                "metapages": [
+                  {
+                    "image": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/24/7f/af/247fafca-2813-01ed-fef4-439f1cf9e3de/pr_source.png/800x800cc.jpg",
+                    "caption": "Tragédie"
+                  },
+                  {
+                    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/64/16/78/641678fc-f315-d02d-93e4-46d147d026b9/3283451105624.jpg/400x400cc.jpg",
+                    "caption": "Hey Oh (Radio Edit)"
+                  }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                  {
+                    "title": "Album",
+                    "text": "Tragédie (Édition Deluxe)"
+                  },
+                  {
+                    "title": "Label",
+                    "text": "Warner (France)"
+                  },
+                  {
+                    "title": "Released",
+                    "text": "1995"
+                  }
+                ]
+              },
+              {
+                "type": "LYRICS",
+                "text": [
+                  "Ho ho ho ho ho",
+                  "Ho ho ho ho ho",
+                  "Ho ho ho ho",
+                  "",
+                  "Ho ho ho ho ho",
+                  "",
+                  "Est-ce que tu m'entends hey ho!",
+                  "Est-ce que tu me sens hey ho!",
+                  "Touche moi je suis là hey ho!",
+                  "Ho ho ho ho ho ho",
+                  "S'il te plais réponds moi hey ho",
+                  "Un geste suffira hey ho!",
+                  "Est-ce que tu m'aperçois hey ho!",
+                  "Ho ho ho ho ho ho",
+                  "",
+                  "Ça fait longtemps, en bas de ta fenêtre",
+                  "J'appelle vainement mais personne ne répond",
+                  "Fais juste un signe pour montrer que t'es là",
+                  "Ho yé ho ho ho ho ho",
+                  "",
+                  "Déjà deux heures qu'en bas de chez toi",
+                  "Je cris ton nom mais personne m'entend juste un signe suffira",
+                  "Baisse la tête ho! Regarde qui est là",
+                  "Ho ho ho ho",
+                  "",
+                  "Est-ce que tu m'entends hey ho!",
+                  "Est-ce que tu me sens hey ho!",
+                  "Touche moi je suis là hey ho!",
+                  "Ho ho ho ho ho ho",
+                  "S'il te plais réponds moi hey ho",
+                  "Un geste suffira hey ho!",
+                  "Est-ce que tu m'aperçois hey ho!",
+                  "Ho ho ho ho ho ho",
+                  "",
+                  "Je sais que t'es là mais tu n'entends pas",
+                  "Qu'en bas de chez toi je t'appelle mais tu n' réponds pas",
+                  "Je sais que t'es là, mais tu n'entends pas",
+                  "Qu'en bas de chez toi je t'appelle",
+                  "",
+                  "Est-ce que tu m'entends?",
+                  "Est-ce que tu me sens?",
+                  "Un geste suffira s'il te plait réponds-moi",
+                  "Est-ce que tu m'aperçois?",
+                  "Car en bas de chez toi je fais les cents pas",
+                  "Est-ce que tu me vois?",
+                  "Dis-le moi",
+                  "",
+                  "Est-ce que tu m'entends hey ho!",
+                  "Est-ce que tu me sens hey ho!",
+                  "Touche moi je suis là hey ho!",
+                  "Ho ho ho ho ho ho",
+                  "S'il te plais réponds moi hey ho",
+                  "Un geste suffira hey ho!",
+                  "Est-ce que tu m'aperçois hey ho!",
+                  "Ho ho ho ho ho ho",
+                  "",
+                  "La seule chose que j'attends,",
+                  "C'est juste que tu descendes",
+                  "Trop longtemps que j'attends",
+                  "Je commence à perdre patience",
+                  "J'ai appris que tu aimais ça",
+                  "Faire languir tous les mecs comme moi",
+                  "Et celui qui s'acharnera",
+                  "Ce sera lui que tu choisiras",
+                  "",
+                  "Est-ce que tu m'entends hey ho!",
+                  "Est-ce que tu me sens hey ho!",
+                  "Touche moi je suis là hey ho!",
+                  "Ho ho ho ho ho ho",
+                  "S'il te plais réponds moi hey ho",
+                  "Un geste suffira hey ho!",
+                  "Est-ce que tu m'aperçois hey ho!",
+                  "Ho ho ho ho ho ho",
+                  "",
+                  "Ho ho ho ho ho ho ho"
+                ],
+                "footer": "Writer(s): Molonfi Dem's Kyalwe, Yann Christian Courtois, Thierry Rakotomanga, Guillaume Adjassin, Daniel Guiro\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                  "lyricsid": "15083481",
+                  "providername": "musixmatch",
+                  "commontrackid": "3358150"
+                }
+              },
+              {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": {
+                  "caption": "Hey Oh (Radio Edit)",
+                  "image": {
+                    "dimensions": {
+                      "width": 1280,
+                      "height": 720
+                    },
+                    "url": "https://i.ytimg.com/vi/Ar3gjde1woQ/maxresdefault.jpg"
+                  },
+                  "actions": [
+                    {
+                      "name": "video:youtube",
+                      "type": "webview",
+                      "share": {
+                        "subject": "Hey Oh (Radio Edit) - Tragédie",
+                        "text": "I used Shazam to discover Hey Oh (Radio Edit) by Tragédie.",
+                        "href": "https://www.shazam.com/track/40469514/hey-oh-radio-edit",
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/64/16/78/641678fc-f315-d02d-93e4-46d147d026b9/3283451105624.jpg/400x400cc.jpg",
+                        "twitter": "I used @Shazam to discover Hey Oh (Radio Edit) by Tragédie.",
+                        "html": "https://www.shazam.com/snippets/email-share/40469514?lang=-&country=US",
+                        "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features124/v4/24/7f/af/247fafca-2813-01ed-fef4-439f1cf9e3de/pr_source.png/800x800cc.jpg",
+                        "snapchat": "https://www.shazam.com/partner/sc/track/40469514"
+                      },
+                      "uri": "https://youtu.be/Ar3gjde1woQ?autoplay=1"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "RELATED",
+                "tabname": "Related"
+              }
+            ]
+          },
+          {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "615657483",
+            "title": "N95",
+            "subtitle": "Kendrick Lamar",
+            "images": {
+              "background": "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/ab/50/ef/ab50ef3b-c936-44f0-7b01-bb113a133547/mza_5527770582281912184.png/800x800cc.jpg",
+              "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/72/a1/a9/72a1a9a0-6c42-a37f-aad4-7e8772365c6d/22UMGIM52376.rgb.jpg/400x400cc.jpg",
+              "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/72/a1/a9/72a1a9a0-6c42-a37f-aad4-7e8772365c6d/22UMGIM52376.rgb.jpg/400x400cc.jpg",
+              "joecolor": "b:1a1d14p:dcb388s:d0ae85t:b59570q:ac916e"
+            },
+            "share": {
+              "subject": "N95 - Kendrick Lamar",
+              "text": "I used Shazam to discover N95 by Kendrick Lamar.",
+              "href": "https://www.shazam.com/track/615657483/n95",
+              "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/72/a1/a9/72a1a9a0-6c42-a37f-aad4-7e8772365c6d/22UMGIM52376.rgb.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover N95 by Kendrick Lamar.",
+              "html": "https://www.shazam.com/snippets/email-share/615657483?lang=en-US&country=US",
+              "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/ab/50/ef/ab50ef3b-c936-44f0-7b01-bb113a133547/mza_5527770582281912184.png/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/615657483"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1623854822"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/52/37/dd/5237dd95-1799-4c32-defd-d9d397315194/mzaf_13744546020894964123.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/n95/1623854804?i=1623854822&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/n95/1623854804?i=1623854822&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/n95/1623854804?i=1623854822&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "buy",
+                    "providername": "itunes"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:N95%20Kendrick%20Lamar"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27N95%27%20artist%3A%27Kendrick+Lamar%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": true,
+              "displayname": "APPLE MUSIC"
+            },
+            "url": "https://www.shazam.com/track/615657483/n95",
+            "artists": [
+              {
+                "id": "42",
+                "adamid": "368183298"
+              }
+            ],
+            "isrc": "USUM72208963",
+            "genres": {
+              "primary": "Hip-Hop/Rap"
+            },
+            "urlparams": {
+              "{tracktitle}": "N95",
+              "{trackartist}": "Kendrick+Lamar"
+            },
+            "myshazam": {
+              "apple": {
+                "actions": [
+                  {
+                    "name": "myshazam:apple",
+                    "type": "uri",
+                    "uri": "https://music.apple.com/us/album/n95/1623854804?i=1623854822&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                  }
+                ]
+              }
+            },
+            "albumadamid": "1623854804",
+            "sections": [
+              {
+                "type": "SONG",
+                "metapages": [
+                  {
+                    "image": "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/ab/50/ef/ab50ef3b-c936-44f0-7b01-bb113a133547/mza_5527770582281912184.png/800x800cc.jpg",
+                    "caption": "Kendrick Lamar"
+                  },
+                  {
+                    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/72/a1/a9/72a1a9a0-6c42-a37f-aad4-7e8772365c6d/22UMGIM52376.rgb.jpg/400x400cc.jpg",
+                    "caption": "N95"
+                  }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                  {
+                    "title": "Album",
+                    "text": "Mr. Morale & The Big Steppers"
+                  },
+                  {
+                    "title": "Label",
+                    "text": "pgLang/Top Dawg Entertainment/Aftermath/Interscope Records"
+                  },
+                  {
+                    "title": "Released",
+                    "text": "2022"
+                  }
+                ]
+              },
+              {
+                "type": "LYRICS",
+                "text": [
+                  "Hello, new world",
+                  "All the boys and girls",
+                  "I got some true stories to tell",
+                  "You're back outside",
+                  "But they still lied",
+                  "Whoa-oh-oh-oh (yeah)",
+                  "",
+                  "Take off the foo-foo, take off the clout chase, take off the Wi-Fi",
+                  "Take off the money phone, take off the car loan, take off the flex and the white lies",
+                  "Take off the weird ass jewelry, I'ma take ten steps, then I'm takin' off top five",
+                  "Take off them fabricated streams and them microwave memes, it's a real world outside (take that shit off)",
+                  "",
+                  "Take off your idols, take off the runway, I take off to Cairo (take that shit off)",
+                  "Take off to Saint-Tropez, five-day stay, take a quarter mill', hell, if I know (take that shit off)",
+                  "Take off the front flag, take off perception, take off the cop with the eye patch (take that shit off)",
+                  "Take off the unloyal, take off the unsure, take off decisions I lack (take it off)",
+                  "",
+                  "Take off the fake deep, take off the fake woke, take off the, \"I'm broke, I care\" (take it off)",
+                  "Take off the gossip, take off the new logic that if I'm rich, I'm rare (take it off)",
+                  "Take off the Chanel, take off the Dolce, take off the Birkin bag (take it off)",
+                  "Take all that designer bullshit off, and what do you have?",
+                  "",
+                  "Bitch, huh-huh",
+                  "Ugh, you ugly as fuck (you outta pocket)",
+                  "Huh, two ATMs, you steppin' or what? (You outta pocket)",
+                  "Huh, who you think they talk about? Talk about us (shoot, shoot, shoot, you out of pocket)",
+                  "Who you think they copy off? Copy off us (get back in pocket)",
+                  "",
+                  "The world in a panic, the women is stranded, the men on a run",
+                  "The prophets abandoned, the law take advantage, the market is crashin', the industry wants",
+                  "Niggas and bitches to sleep in a box while they makin' a mockery followin' us",
+                  "This ain't Monopoly, watchin' for love",
+                  "This ain't monogamy, y'all gettin' fucked",
+                  "",
+                  "Jumping on, \"What the hell is that?\" I gotta relax when I feel (huh, facts)",
+                  "All my decendents, they come in my sleep and say I am too real (huh, facts)",
+                  "I'm done with the sensitive, takin' it personal",
+                  "Done with the black and the white, the wrong and the right",
+                  "You hopin' for change and clericals, I know the feelings that came with burial's cries",
+                  "",
+                  "Bitch, huh-huh",
+                  "Ugh, you ugly as fuck (you outta pocket)",
+                  "Huh, two ATMs, you steppin' or what? (You outta pocket)",
+                  "Huh, who you think they talk about? Talk about us (shoot, shoot, shoot, you out of pocket)",
+                  "Who you think they copy off? Copy off us (get back in pocket)",
+                  "",
+                  "Servin' up a look, dancin' in the drought",
+                  "Hello to the big stepper, never losin' count",
+                  "Ventin' in the safe house, ventin' in the sa-",
+                  "",
+                  "Can I vent all my truth? I got nothin' to lose",
+                  "I got problems and pools, I can swim in my faith",
+                  "Camera's movin' whenever I'm movin'",
+                  "The family suin' whatever I make",
+                  "Murder is stackin', the president actin'",
+                  "The government taxin' my funds in a bank",
+                  "Homies attractin' the feds when I'm brackin'",
+                  "Look at my reaction, my pupils on skates (hol' up, hol' up)",
+                  "",
+                  "Let's think about this for a second (let's go)",
+                  "Tell me what you would do for aesthetic (let's go)",
+                  "Would you sell your soul on credit? (Let's go)",
+                  "Would you sell your bro for leverage? (Let's go)",
+                  "",
+                  "Where the hypocrites at?",
+                  "What community feel they the only ones relevant? (Go)",
+                  "Where the hypocrites at?",
+                  "What community feel they the only ones relevant? (Go, huh-huh-huh)",
+                  "",
+                  "You outta pocket, yeah, you outta pocket (this shit hard)",
+                  "You entertain the mediocre, need to stop it (this shit hard)",
+                  "You entertainin' old friends when they toxic (this shit hard)",
+                  "What's your life like? Bullshit and gossip (this shit hard)",
+                  "What the fuck is cancel culture, dawg?",
+                  "Say what I want about you niggas, I'm like Oprah, dawg",
+                  "I treat you crackers like I'm Jigga, watch, I own it all",
+                  "Oh, you worried 'bout a critic? That ain't protocol (bitch)"
+                ],
+                "footer": "Writer(s): Matthew Samuels, Sam Dew, Kendrick Duckworth, Jahaan Sweet, Mark Anthony Spears\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                  "lyricsid": "30569013",
+                  "providername": "musixmatch",
+                  "commontrackid": "143716033"
+                }
+              },
+              {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": {
+                  "caption": "Kendrick Lamar - N95",
+                  "image": {
+                    "dimensions": {
+                      "width": 1280,
+                      "height": 720
+                    },
+                    "url": "https://i.ytimg.com/vi/zI383uEwA6Q/maxresdefault.jpg"
+                  },
+                  "actions": [
+                    {
+                      "name": "video:youtube",
+                      "type": "webview",
+                      "share": {
+                        "subject": "N95 - Kendrick Lamar",
+                        "text": "I used Shazam to discover N95 by Kendrick Lamar.",
+                        "href": "https://www.shazam.com/track/615657483/n95",
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/72/a1/a9/72a1a9a0-6c42-a37f-aad4-7e8772365c6d/22UMGIM52376.rgb.jpg/400x400cc.jpg",
+                        "twitter": "I used @Shazam to discover N95 by Kendrick Lamar.",
+                        "html": "https://www.shazam.com/snippets/email-share/615657483?lang=-&country=US",
+                        "avatar": "https://is4-ssl.mzstatic.com/image/thumb/Features112/v4/ab/50/ef/ab50ef3b-c936-44f0-7b01-bb113a133547/mza_5527770582281912184.png/800x800cc.jpg",
+                        "snapchat": "https://www.shazam.com/partner/sc/track/615657483"
+                      },
+                      "uri": "https://youtu.be/zI383uEwA6Q?autoplay=1"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "RELATED",
+                "tabname": "Related"
+              }
+            ]
+          },
+          {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "609260140",
+            "title": "As It Was",
+            "subtitle": "Harry Styles",
+            "images": {
+              "background": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/00/8f/26/008f26ce-ec78-ad42-9303-260ac3b9701c/pr_source.png/800x800cc.jpg",
+              "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/400x400cc.jpg",
+              "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/400x400cc.jpg",
+              "joecolor": "b:d2c8adp:090f12s:3d2b16t:313431q:5b4a34"
+            },
+            "share": {
+              "subject": "As It Was - Harry Styles",
+              "text": "I used Shazam to discover As It Was by Harry Styles.",
+              "href": "https://www.shazam.com/track/609260140/as-it-was",
+              "image": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover As It Was by Harry Styles.",
+              "html": "https://www.shazam.com/snippets/email-share/609260140?lang=en-US&country=US",
+              "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/00/8f/26/008f26ce-ec78-ad42-9303-260ac3b9701c/pr_source.png/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/609260140"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1615585008"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/96/7e/ea/967eea0f-3d8e-9bb6-b4c5-fb255f50b906/mzaf_16046209671483865399.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/as-it-was/1615584999?i=1615585008&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/as-it-was/1615584999?i=1615585008&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/as-it-was/1615584999?i=1615585008&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "buy",
+                    "providername": "itunes"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:As%20It%20Was%20Harry%20Styles"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27As+It+Was%27%20artist%3A%27Harry+Styles%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": false,
+              "displayname": "APPLE MUSIC"
+            },
+            "url": "https://www.shazam.com/track/609260140/as-it-was",
+            "artists": [
+              {
+                "id": "42",
+                "adamid": "471260289"
+              }
+            ],
+            "isrc": "USSM12200612",
+            "genres": {
+              "primary": "Pop"
+            },
+            "urlparams": {
+              "{tracktitle}": "As+It+Was",
+              "{trackartist}": "Harry+Styles"
+            },
+            "myshazam": {
+              "apple": {
+                "actions": [
+                  {
+                    "name": "myshazam:apple",
+                    "type": "uri",
+                    "uri": "https://music.apple.com/us/album/as-it-was/1615584999?i=1615585008&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                  }
+                ]
+              }
+            },
+            "albumadamid": "1615584999",
+            "sections": [
+              {
+                "type": "SONG",
+                "metapages": [
+                  {
+                    "image": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/00/8f/26/008f26ce-ec78-ad42-9303-260ac3b9701c/pr_source.png/800x800cc.jpg",
+                    "caption": "Harry Styles"
+                  },
+                  {
+                    "image": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/400x400cc.jpg",
+                    "caption": "As It Was"
+                  }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                  {
+                    "title": "Album",
+                    "text": "Harry's House"
+                  },
+                  {
+                    "title": "Label",
+                    "text": "Columbia"
+                  },
+                  {
+                    "title": "Released",
+                    "text": "2022"
+                  }
+                ]
+              },
+              {
+                "type": "LYRICS",
+                "text": [
+                  "Come on, Harry, we wanna say \"good night\" to you!",
+                  "",
+                  "Holding me back",
+                  "Gravity's holding me back",
+                  "I want you to hold out the palm of your hand",
+                  "Why don't we leave it at that?",
+                  "",
+                  "Nothing to say",
+                  "When everything gets in the way",
+                  "Seems you cannot be replaced",
+                  "And I'm the one who will stay",
+                  "Oh-oh-oh",
+                  "",
+                  "In this world",
+                  "It's just us",
+                  "You know it's not the same as it was",
+                  "",
+                  "In this world",
+                  "It's just us",
+                  "You know it's not the same as it was",
+                  "",
+                  "As it was",
+                  "As it was",
+                  "You know it's not the same",
+                  "",
+                  "Answer the phone",
+                  "Harry, you're no good alone",
+                  "Why are you sitting at home on the floor?",
+                  "What kind of pills are you on?",
+                  "",
+                  "Ringing the bell",
+                  "And nobody's coming to help",
+                  "Your daddy lives by himself",
+                  "He just wants to know that you're well",
+                  "Oh-oh-oh",
+                  "",
+                  "In this world",
+                  "It's just us",
+                  "You know it's not the same as it was",
+                  "",
+                  "In this world",
+                  "It's just us",
+                  "You know it's not the same as it was",
+                  "",
+                  "As it was",
+                  "As it was",
+                  "You know it's not the same",
+                  "",
+                  "Go home, get ahead, light-speed internet",
+                  "I don't wanna talk about the way that it was",
+                  "Leave America, two kids follow her",
+                  "I don't wanna talk about who's doing it first",
+                  "",
+                  "Hey!",
+                  "",
+                  "As it was",
+                  "You know it's not the same as it was",
+                  "As it was",
+                  "As it was"
+                ],
+                "footer": "Writer(s): Thomas Edward Percy Hull, Harry Edward Styles, Tyler Sam Johnson\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                  "lyricsid": "30448711",
+                  "providername": "musixmatch",
+                  "commontrackid": "141571537"
+                }
+              },
+              {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": {
+                  "caption": "Harry Styles - As It Was (Official Video)",
+                  "image": {
+                    "dimensions": {
+                      "width": 1280,
+                      "height": 720
+                    },
+                    "url": "https://i.ytimg.com/vi/H5v3kku4y6Q/maxresdefault.jpg"
+                  },
+                  "actions": [
+                    {
+                      "name": "video:youtube",
+                      "type": "webview",
+                      "share": {
+                        "subject": "As It Was - Harry Styles",
+                        "text": "I used Shazam to discover As It Was by Harry Styles.",
+                        "href": "https://www.shazam.com/track/609260140/as-it-was",
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/2a/19/fb/2a19fb85-2f70-9e44-f2a9-82abe679b88e/886449990061.jpg/400x400cc.jpg",
+                        "twitter": "I used @Shazam to discover As It Was by Harry Styles.",
+                        "html": "https://www.shazam.com/snippets/email-share/609260140?lang=-&country=US",
+                        "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/00/8f/26/008f26ce-ec78-ad42-9303-260ac3b9701c/pr_source.png/800x800cc.jpg",
+                        "snapchat": "https://www.shazam.com/partner/sc/track/609260140"
+                      },
+                      "uri": "https://youtu.be/H5v3kku4y6Q?autoplay=1"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "RELATED",
+                "tabname": "Related"
+              }
+            ]
+          },
+          {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "52740692",
+            "title": "F**k You",
+            "subtitle": "CeeLo Green",
+            "images": {
+              "background": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/7f/21/f7/7f21f7ec-6566-9533-3322-2601e8d270ff/pr_source.png/800x800cc.jpg",
+              "coverart": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/a4/0d/73/a40d733d-f46f-06b3-4451-ca3a1f1ef9c1/mzi.rjmpgtbb.jpg/400x400cc.jpg",
+              "coverarthq": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/a4/0d/73/a40d733d-f46f-06b3-4451-ca3a1f1ef9c1/mzi.rjmpgtbb.jpg/400x400cc.jpg",
+              "joecolor": "b:000000p:ffffffs:d6aeb4t:cbcbcbq:ab8b90"
+            },
+            "share": {
+              "subject": "F**k You - CeeLo Green",
+              "text": "I used Shazam to discover F**k You by CeeLo Green.",
+              "href": "https://www.shazam.com/track/52740692/f-k-you",
+              "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/a4/0d/73/a40d733d-f46f-06b3-4451-ca3a1f1ef9c1/mzi.rjmpgtbb.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover F**k You by CeeLo Green.",
+              "html": "https://www.shazam.com/snippets/email-share/52740692?lang=en-US&country=US",
+              "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/7f/21/f7/7f21f7ec-6566-9533-3322-2601e8d270ff/pr_source.png/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/52740692"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "400134237"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/69/df/6c/69df6cc3-c035-26ca-507a-b00a127fb19f/mzaf_8532917470987123082.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/fuck-you/400134230?i=400134237&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/fuck-you/400134230?i=400134237&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/fuck-you/400134230?i=400134237&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "buy",
+                    "providername": "itunes"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:F**k%20You%20CeeLo%20Green"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27F**k+You%27%20artist%3A%27CeeLo+Green%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": true,
+              "displayname": "APPLE MUSIC"
+            },
+            "url": "https://www.shazam.com/track/52740692/f-k-you",
+            "artists": [
+              {
+                "id": "42",
+                "adamid": "174680978"
+              }
+            ],
+            "isrc": "USAT21001768",
+            "genres": {
+              "primary": "R&B/Soul"
+            },
+            "urlparams": {
+              "{tracktitle}": "F**k+You",
+              "{trackartist}": "CeeLo+Green"
+            },
+            "myshazam": {
+              "apple": {
+                "actions": [
+                  {
+                    "name": "myshazam:apple",
+                    "type": "uri",
+                    "uri": "https://music.apple.com/us/album/fuck-you/400134230?i=400134237&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                  }
+                ]
+              }
+            },
+            "albumadamid": "400134230",
+            "sections": [
+              {
+                "type": "SONG",
+                "metapages": [
+                  {
+                    "image": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/7f/21/f7/7f21f7ec-6566-9533-3322-2601e8d270ff/pr_source.png/800x800cc.jpg",
+                    "caption": "CeeLo Green"
+                  },
+                  {
+                    "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/a4/0d/73/a40d733d-f46f-06b3-4451-ca3a1f1ef9c1/mzi.rjmpgtbb.jpg/400x400cc.jpg",
+                    "caption": "F**k You"
+                  }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                  {
+                    "title": "Album",
+                    "text": "The Lady Killer"
+                  },
+                  {
+                    "title": "Label",
+                    "text": "Radiculture/Elektra"
+                  },
+                  {
+                    "title": "Released",
+                    "text": "2010"
+                  }
+                ]
+              },
+              {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": {
+                  "caption": "CeeLo Green - FUCK YOU (Official Video)",
+                  "image": {
+                    "dimensions": {
+                      "width": 480,
+                      "height": 360
+                    },
+                    "url": "https://i.ytimg.com/vi/pc0mxOXbWIU/hqdefault.jpg"
+                  },
+                  "actions": [
+                    {
+                      "name": "video:youtube",
+                      "type": "webview",
+                      "share": {
+                        "subject": "F**k You - CeeLo Green",
+                        "text": "I used Shazam to discover F**k You by CeeLo Green.",
+                        "href": "https://www.shazam.com/track/52740692/f-k-you",
+                        "image": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/a4/0d/73/a40d733d-f46f-06b3-4451-ca3a1f1ef9c1/mzi.rjmpgtbb.jpg/400x400cc.jpg",
+                        "twitter": "I used @Shazam to discover F**k You by CeeLo Green.",
+                        "html": "https://www.shazam.com/snippets/email-share/52740692?lang=-&country=US",
+                        "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Features115/v4/7f/21/f7/7f21f7ec-6566-9533-3322-2601e8d270ff/pr_source.png/800x800cc.jpg",
+                        "snapchat": "https://www.shazam.com/partner/sc/track/52740692"
+                      },
+                      "uri": "https://youtu.be/pc0mxOXbWIU?autoplay=1"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "RELATED",
+                "tabname": "Related"
+              }
+            ]
+          },
+          {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "99196244",
+            "title": "Radioactive",
+            "subtitle": "Imagine Dragons",
+            "images": {
+              "background": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/83/bd/b7/83bdb7ff-63a6-2252-e04b-ece8ebdc5768/pr_source.png/800x800cc.jpg",
+              "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/400x400cc.jpg",
+              "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/400x400cc.jpg",
+              "joecolor": "b:1d1932p:e0d7e1s:d59b99t:b9b1beq:b08185"
+            },
+            "share": {
+              "subject": "Radioactive - Imagine Dragons",
+              "text": "I used Shazam to discover Radioactive by Imagine Dragons.",
+              "href": "https://www.shazam.com/track/99196244/radioactive",
+              "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Radioactive by Imagine Dragons.",
+              "html": "https://www.shazam.com/snippets/email-share/99196244?lang=en-US&country=US",
+              "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/83/bd/b7/83bdb7ff-63a6-2252-e04b-ece8ebdc5768/pr_source.png/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/99196244"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1440873126"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/be/66/b7/be66b7f1-7e62-4565-69db-27cb411b7b5c/mzaf_15274320387563800922.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/radioactive/1440873107?i=1440873126&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/radioactive/1440873107?i=1440873126&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/radioactive/1440873107?i=1440873126&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "buy",
+                    "providername": "itunes"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:Radioactive%20Imagine%20Dragons"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Radioactive%27%20artist%3A%27Imagine+Dragons%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": false,
+              "displayname": "APPLE MUSIC"
+            },
+            "url": "https://www.shazam.com/track/99196244/radioactive",
+            "artists": [
+              {
+                "id": "42",
+                "adamid": "358714030"
+              }
+            ],
+            "isrc": "USUM71201074",
+            "genres": {
+              "primary": "Pop"
+            },
+            "urlparams": {
+              "{tracktitle}": "Radioactive",
+              "{trackartist}": "Imagine+Dragons"
+            },
+            "myshazam": {
+              "apple": {
+                "actions": [
+                  {
+                    "name": "myshazam:apple",
+                    "type": "uri",
+                    "uri": "https://music.apple.com/us/album/radioactive/1440873107?i=1440873126&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                  }
+                ]
+              }
+            },
+            "albumadamid": "1440873107",
+            "sections": [
+              {
+                "type": "SONG",
+                "metapages": [
+                  {
+                    "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/83/bd/b7/83bdb7ff-63a6-2252-e04b-ece8ebdc5768/pr_source.png/800x800cc.jpg",
+                    "caption": "Imagine Dragons"
+                  },
+                  {
+                    "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/400x400cc.jpg",
+                    "caption": "Radioactive"
+                  }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                  {
+                    "title": "Album",
+                    "text": "Night Visions"
+                  },
+                  {
+                    "title": "Label",
+                    "text": "Kid Ina Korner / Interscope"
+                  },
+                  {
+                    "title": "Released",
+                    "text": "2012"
+                  }
+                ]
+              },
+              {
+                "type": "LYRICS",
+                "text": [
+                  "I'm waking up to ash and dust",
+                  "I wipe my brow, and I sweat my rust",
+                  "I'm breathing in the chemicals",
+                  "",
+                  "I'm breaking in, shaping up",
+                  "Then checking out on the prison bus",
+                  "This is it, the apocalypse, woah",
+                  "",
+                  "I'm waking up",
+                  "I feel it in my bones",
+                  "Enough to make my system blow",
+                  "Welcome to the new age, to the new age",
+                  "Welcome to the new age, to the new age",
+                  "",
+                  "Woah-oh-oh-oh, oh",
+                  "Whoa-oh-oh-oh, I'm",
+                  "Radioactive, radioactive",
+                  "Whoa-oh-oh-oh, oh",
+                  "Whoa-oh-oh-oh, I'm",
+                  "Radioactive, radioactive",
+                  "",
+                  "I raise my flag, dye my clothes",
+                  "It's a revolution, I suppose",
+                  "We're painted red to fit right in, woah",
+                  "",
+                  "I'm breaking in, shaping up",
+                  "Then checking out on the prison bus",
+                  "This is it, the apocalypse, woah",
+                  "",
+                  "I'm waking up",
+                  "I feel it in my bones",
+                  "Enough to make my system blow",
+                  "Welcome to the new age, to the new age",
+                  "Welcome to the new age, to the new age",
+                  "",
+                  "Woah-oh-oh-oh, oh",
+                  "Woah-oh-oh-oh, I'm",
+                  "Radioactive, radioactive",
+                  "Woah-oh-oh-oh, oh",
+                  "Woah-oh-oh-oh, I'm",
+                  "Radioactive, radioactive",
+                  "",
+                  "All systems go",
+                  "The sun hasn't died",
+                  "Deep in my bones",
+                  "Straight from inside",
+                  "",
+                  "I'm waking up",
+                  "I feel it in my bones",
+                  "Enough to make my system blow",
+                  "Welcome to the new age, to the new age",
+                  "Welcome to the new age, to the new age",
+                  "",
+                  "Woah-oh-oh-oh, oh",
+                  "Woah-oh-oh-oh, I'm",
+                  "Radioactive, radioactive",
+                  "Woah-oh-oh-oh, oh",
+                  "Woah-oh-oh-oh, I'm",
+                  "Radioactive, radioactive"
+                ],
+                "footer": "Writer(s): Benjamin Arthur Mckee, Daniel Wayne Sermon, Daniel Coulter Reynolds, Joshua Francis Mosser, Alexander Junior Grant\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                  "lyricsid": "29283754",
+                  "providername": "musixmatch",
+                  "commontrackid": "10626641"
+                }
+              },
+              {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": {
+                  "caption": "Imagine Dragons - Radioactive",
+                  "image": {
+                    "dimensions": {
+                      "width": 1280,
+                      "height": 720
+                    },
+                    "url": "https://i.ytimg.com/vi/ktvTqknDobU/maxresdefault.jpg"
+                  },
+                  "actions": [
+                    {
+                      "name": "video:youtube",
+                      "type": "webview",
+                      "share": {
+                        "subject": "Radioactive - Imagine Dragons",
+                        "text": "I used Shazam to discover Radioactive by Imagine Dragons.",
+                        "href": "https://www.shazam.com/track/99196244/radioactive",
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/400x400cc.jpg",
+                        "twitter": "I used @Shazam to discover Radioactive by Imagine Dragons.",
+                        "html": "https://www.shazam.com/snippets/email-share/99196244?lang=-&country=US",
+                        "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/83/bd/b7/83bdb7ff-63a6-2252-e04b-ece8ebdc5768/pr_source.png/800x800cc.jpg",
+                        "snapchat": "https://www.shazam.com/partner/sc/track/99196244"
+                      },
+                      "uri": "https://youtu.be/ktvTqknDobU?autoplay=1"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "RELATED",
+                "tabname": "Related"
+              }
+            ]
+          },
+          {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "78832419",
+            "title": "Demons",
+            "subtitle": "Imagine Dragons",
+            "images": {
+              "background": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/83/bd/b7/83bdb7ff-63a6-2252-e04b-ece8ebdc5768/pr_source.png/800x800cc.jpg",
+              "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/400x400cc.jpg",
+              "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/400x400cc.jpg",
+              "joecolor": "b:1d1932p:e0d7e1s:d59b99t:b9b1beq:b08185"
+            },
+            "share": {
+              "subject": "Demons - Imagine Dragons",
+              "text": "I used Shazam to discover Demons by Imagine Dragons.",
+              "href": "https://www.shazam.com/track/78832419/demons",
+              "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Demons by Imagine Dragons.",
+              "html": "https://www.shazam.com/snippets/email-share/78832419?lang=en-US&country=US",
+              "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/83/bd/b7/83bdb7ff-63a6-2252-e04b-ece8ebdc5768/pr_source.png/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/78832419"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1440873339"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/a0/d5/39/a0d53912-c0b8-dd9b-9984-3024efea19d0/mzaf_13988353462109761443.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/demons/1440873107?i=1440873339&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/demons/1440873107?i=1440873339&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/demons/1440873107?i=1440873339&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "buy",
+                    "providername": "itunes"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:Demons%20Imagine%20Dragons"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Demons%27%20artist%3A%27Imagine+Dragons%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": false,
+              "displayname": "APPLE MUSIC"
+            },
+            "url": "https://www.shazam.com/track/78832419/demons",
+            "artists": [
+              {
+                "id": "42",
+                "adamid": "358714030"
+              }
+            ],
+            "isrc": "USUM71201071",
+            "genres": {
+              "primary": "Alternative"
+            },
+            "urlparams": {
+              "{tracktitle}": "Demons",
+              "{trackartist}": "Imagine+Dragons"
+            },
+            "myshazam": {
+              "apple": {
+                "actions": [
+                  {
+                    "name": "myshazam:apple",
+                    "type": "uri",
+                    "uri": "https://music.apple.com/us/album/demons/1440873107?i=1440873339&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                  }
+                ]
+              }
+            },
+            "albumadamid": "1440873107",
+            "sections": [
+              {
+                "type": "SONG",
+                "metapages": [
+                  {
+                    "image": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/83/bd/b7/83bdb7ff-63a6-2252-e04b-ece8ebdc5768/pr_source.png/800x800cc.jpg",
+                    "caption": "Imagine Dragons"
+                  },
+                  {
+                    "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/400x400cc.jpg",
+                    "caption": "Demons"
+                  }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                  {
+                    "title": "Album",
+                    "text": "Night Visions"
+                  },
+                  {
+                    "title": "Label",
+                    "text": "Kid Ina Korner / Interscope"
+                  },
+                  {
+                    "title": "Released",
+                    "text": "2012"
+                  }
+                ]
+              },
+              {
+                "type": "LYRICS",
+                "text": [
+                  "When the days are cold",
+                  "And the cards all fold",
+                  "And the saints we see are all made of gold",
+                  "When your dreams all fail",
+                  "And the ones we hail",
+                  "Are the worst of all, and the blood's run stale",
+                  "",
+                  "I wanna hide the truth",
+                  "I wanna shelter you",
+                  "But with the beast inside",
+                  "There's nowhere we can hide",
+                  "No matter what we breed",
+                  "We still are made of greed",
+                  "This is my kingdom come",
+                  "This is my kingdom come",
+                  "",
+                  "When you feel my heat, look into my eyes",
+                  "It's where my demons hide",
+                  "It's where my demons hide",
+                  "Don't get too close, it's dark inside",
+                  "It's where my demons hide",
+                  "It's where my demons hide",
+                  "",
+                  "At the curtain's call",
+                  "It's the last of all",
+                  "When the lights fade out, all the sinners crawl",
+                  "So they dug your grave",
+                  "And the masquerade",
+                  "Will come calling out at the mess you've made",
+                  "",
+                  "Don't wanna let you down",
+                  "But I am hell-bound",
+                  "Though this is all for you",
+                  "Don't wanna hide the truth",
+                  "No matter what we breed",
+                  "We still are made of greed",
+                  "This is my kingdom come",
+                  "This is my kingdom come",
+                  "",
+                  "When you feel my heat, look into my eyes",
+                  "It's where my demons hide",
+                  "It's where my demons hide",
+                  "Don't get too close, it's dark inside",
+                  "It's where my demons hide",
+                  "It's where my demons hide",
+                  "",
+                  "They say it's what you make",
+                  "I say it's up to fate",
+                  "It's woven in my soul",
+                  "I need to let you go",
+                  "Your eyes, they shine so bright",
+                  "I wanna save that light",
+                  "I can't escape this now",
+                  "Unless you show me how",
+                  "",
+                  "When you feel my heat, look into my eyes",
+                  "It's where my demons hide",
+                  "It's where my demons hide",
+                  "Don't get too close, it's dark inside",
+                  "It's where my demons hide",
+                  "It's where my demons hide"
+                ],
+                "footer": "Writer(s): Alexander Junior Grant, Joshua Francis Mosser, Daniel Coulter Reynolds, Daniel Wayne Sermon, Benjamin Arthur Mckee\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                  "lyricsid": "29611988",
+                  "providername": "musixmatch",
+                  "commontrackid": "10626637"
+                }
+              },
+              {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": {
+                  "caption": "Imagine Dragons - Demons (Official Music Video)",
+                  "image": {
+                    "dimensions": {
+                      "width": 1280,
+                      "height": 720
+                    },
+                    "url": "https://i.ytimg.com/vi/mWRsgZuwf_8/maxresdefault.jpg"
+                  },
+                  "actions": [
+                    {
+                      "name": "video:youtube",
+                      "type": "webview",
+                      "share": {
+                        "subject": "Demons - Imagine Dragons",
+                        "text": "I used Shazam to discover Demons by Imagine Dragons.",
+                        "href": "https://www.shazam.com/track/78832419/demons",
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/1f/fa/09/1ffa092f-f52f-4a66-7d10-4cc5982dc747/12UMGIM46901.rgb.jpg/400x400cc.jpg",
+                        "twitter": "I used @Shazam to discover Demons by Imagine Dragons.",
+                        "html": "https://www.shazam.com/snippets/email-share/78832419?lang=-&country=US",
+                        "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/83/bd/b7/83bdb7ff-63a6-2252-e04b-ece8ebdc5768/pr_source.png/800x800cc.jpg",
+                        "snapchat": "https://www.shazam.com/partner/sc/track/78832419"
+                      },
+                      "uri": "https://youtu.be/mWRsgZuwf_8?autoplay=1"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "RELATED",
+                "tabname": "Related"
+              }
+            ]
+          },
+          {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "615367972",
+            "title": "Last Last",
+            "subtitle": "Burna Boy",
+            "images": {
+              "background": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/77/17/5f771752-2a96-11be-8c1f-b8b4050eacac/pr_source.png/800x800cc.jpg",
+              "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/34/42/db/3442dbd6-644f-a111-8344-0151ffb93313/075679745156.jpg/400x400cc.jpg",
+              "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/34/42/db/3442dbd6-644f-a111-8344-0151ffb93313/075679745156.jpg/400x400cc.jpg",
+              "joecolor": "b:620404p:e1baafs:e2b48dt:c8968dq:c89172"
+            },
+            "share": {
+              "subject": "Last Last - Burna Boy",
+              "text": "I used Shazam to discover Last Last by Burna Boy.",
+              "href": "https://www.shazam.com/track/615367972/last-last",
+              "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/34/42/db/3442dbd6-644f-a111-8344-0151ffb93313/075679745156.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Last Last by Burna Boy.",
+              "html": "https://www.shazam.com/snippets/email-share/615367972?lang=en-US&country=US",
+              "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/77/17/5f771752-2a96-11be-8c1f-b8b4050eacac/pr_source.png/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/615367972"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1623677811"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/f9/30/ac/f930ace0-c70b-f1b6-9f97-b409a366617b/mzaf_4882221701328118167.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/last-last/1623677591?i=1623677811&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/last-last/1623677591?i=1623677811&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/last-last/1623677591?i=1623677811&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "buy",
+                    "providername": "itunes"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:Last%20Last%20Burna%20Boy"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Last+Last%27%20artist%3A%27Burna+Boy%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": false,
+              "displayname": "APPLE MUSIC"
+            },
+            "url": "https://www.shazam.com/track/615367972/last-last",
+            "artists": [
+              {
+                "id": "42",
+                "adamid": "591899010"
+              }
+            ],
+            "isrc": "USAT22204901",
+            "genres": {
+              "primary": "World"
+            },
+            "urlparams": {
+              "{tracktitle}": "Last+Last",
+              "{trackartist}": "Burna+Boy"
+            },
+            "myshazam": {
+              "apple": {
+                "actions": [
+                  {
+                    "name": "myshazam:apple",
+                    "type": "uri",
+                    "uri": "https://music.apple.com/us/album/last-last/1623677591?i=1623677811&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                  }
+                ]
+              }
+            },
+            "albumadamid": "1623677591",
+            "sections": [
+              {
+                "type": "SONG",
+                "metapages": [
+                  {
+                    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/77/17/5f771752-2a96-11be-8c1f-b8b4050eacac/pr_source.png/800x800cc.jpg",
+                    "caption": "Burna Boy"
+                  },
+                  {
+                    "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/34/42/db/3442dbd6-644f-a111-8344-0151ffb93313/075679745156.jpg/400x400cc.jpg",
+                    "caption": "Last Last"
+                  }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                  {
+                    "title": "Album",
+                    "text": "Love, Damini"
+                  },
+                  {
+                    "title": "Label",
+                    "text": "Spaceship/ Bad Habit/Atlantic Records"
+                  },
+                  {
+                    "title": "Released",
+                    "text": "2022"
+                  }
+                ]
+              },
+              {
+                "type": "LYRICS",
+                "text": [
+                  "(E don cast)",
+                  "(Last, last)",
+                  "(Na everybody go chop breakfast)",
+                  "Shayo oh, nah",
+                  "Shayo oh, igbo-oh",
+                  "",
+                  "You go bow for the result, oh",
+                  "Nothing to discuss, oh",
+                  "'Cause I dey win by default",
+                  "And without any doubt, oh",
+                  "Omo, me, I be adult, oh",
+                  "I no go fit take your-",
+                  "I no go fit take your insult, oh",
+                  "",
+                  "On my mind as you dey talk, oh",
+                  "I put my life into my job and I know I'm in trouble",
+                  "She manipulate my love, oh, hmm",
+                  "I no holy and I no denge pose",
+                  "Like Baba Fryo",
+                  "",
+                  "My eye, oh, don cry, oh (my eye, oh)",
+                  "(I need igbo and shayo) shayo",
+                  "",
+                  "I need igbo and shayo (shayo)",
+                  "I need igbo and shayo (shayo)",
+                  "I need igbo and shayo (shayo)",
+                  "Shayo (shayo) shayo (shayo)",
+                  "",
+                  "I need igbo and shayo (shayo)",
+                  "I need igbo and shayo (shayo)",
+                  "I need igbo and shayo (shayo)",
+                  "Shayo (shayo) shayo (shayo)",
+                  "",
+                  "I dey Port Harcourt when dem kill Soboma",
+                  "I dey try to buy motor, one Toyota Corolla",
+                  "My feelings been dey swing like jangolova",
+                  "Feelings been dey swing like jangolova",
+                  "",
+                  "Now, you crash your Ferarri for Lekki, Burna",
+                  "Na small thing remain, could've been all over",
+                  "My feelings still dey swing like jangolova",
+                  "Feelings still dey swing like",
+                  "",
+                  "Tin-tin, ti n bani kẹ juru, ẹ juru",
+                  "Omo, why to ki n fẹ ni suuru?",
+                  "Why you say I did nothing for you?",
+                  "When, I for do anything you want me to do",
+                  "Tinba ni ke juru, e juru (e juru)",
+                  "Omo, why to o kin fẹ ni suuru? (Ni suuru)",
+                  "Why you say I did nothing for you?",
+                  "When, I for do anything you want me to do",
+                  "Maybe another time, maybe another life",
+                  "You would be my wife and we'd get it right",
+                  "",
+                  "E don cast",
+                  "Last, last",
+                  "Na everybody go chop breakfast (na everybody go chop breakfast)",
+                  "Have to say bye-bye, oh",
+                  "Bye-bye, oh",
+                  "To the love of my life",
+                  "",
+                  "My eye, oh, don cry, oh (my eye, oh)",
+                  "I need igbo and shayo (shayo)",
+                  "",
+                  "I need igbo and shayo (shayo)",
+                  "I need igbo and shayo (shayo)",
+                  "I need igbo and shayo (shayo)",
+                  "Shayo (shayo) shayo (shayo)",
+                  "",
+                  "I need igbo and shayo (shayo)",
+                  "I need igbo and shayo (shayo)",
+                  "I need igbo and shayo (shayo)",
+                  "Shayo (shayo) shayo (shayo)",
+                  "",
+                  "(Shayo, shayo, shayo...)"
+                ],
+                "footer": "Writer(s): Damini Ogulu, Rodney Jerkins, James Malcolm Olagundoye, Lashawn Ameen Daniels, Samuel Haataja, Harvey Mason Jr., Robert Laukkanen, Santeri Kauppinen, Mikael Haataja, Fred Jerkins Iii\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                  "lyricsid": "29281127",
+                  "providername": "musixmatch",
+                  "commontrackid": "143714915"
+                }
+              },
+              {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": {
+                  "caption": "Burna Boy - Last Last [Official Music Video]",
+                  "image": {
+                    "dimensions": {
+                      "width": 1280,
+                      "height": 720
+                    },
+                    "url": "https://i.ytimg.com/vi/421w1j87fEM/maxresdefault.jpg"
+                  },
+                  "actions": [
+                    {
+                      "name": "video:youtube",
+                      "type": "webview",
+                      "share": {
+                        "subject": "Last Last - Burna Boy",
+                        "text": "I used Shazam to discover Last Last by Burna Boy.",
+                        "href": "https://www.shazam.com/track/615367972/last-last",
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/34/42/db/3442dbd6-644f-a111-8344-0151ffb93313/075679745156.jpg/400x400cc.jpg",
+                        "twitter": "I used @Shazam to discover Last Last by Burna Boy.",
+                        "html": "https://www.shazam.com/snippets/email-share/615367972?lang=-&country=US",
+                        "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/5f/77/17/5f771752-2a96-11be-8c1f-b8b4050eacac/pr_source.png/800x800cc.jpg",
+                        "snapchat": "https://www.shazam.com/partner/sc/track/615367972"
+                      },
+                      "uri": "https://youtu.be/421w1j87fEM?autoplay=1"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "RELATED",
+                "tabname": "Related"
+              }
+            ]
+          },
+          {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "55248229",
+            "title": "All Star",
+            "subtitle": "Smash Mouth",
+            "images": {
+              "background": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/86/8b/f4/868bf4e0-f177-e36a-683d-a13c0d9ab54d/mzl.alllawtn.png/800x800cc.jpg",
+              "coverart": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/7f/e0/e4/7fe0e4dc-2f79-6a9b-5d3a-5d1df42b7aaf/06UMGIM04334.rgb.jpg/400x400cc.jpg",
+              "coverarthq": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/7f/e0/e4/7fe0e4dc-2f79-6a9b-5d3a-5d1df42b7aaf/06UMGIM04334.rgb.jpg/400x400cc.jpg",
+              "joecolor": "b:392668p:fff4f8s:f9e392t:d7cadbq:d2bd89"
+            },
+            "share": {
+              "subject": "All Star - Smash Mouth",
+              "text": "I used Shazam to discover All Star by Smash Mouth.",
+              "href": "https://www.shazam.com/track/55248229/all-star",
+              "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/7f/e0/e4/7fe0e4dc-2f79-6a9b-5d3a-5d1df42b7aaf/06UMGIM04334.rgb.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover All Star by Smash Mouth.",
+              "html": "https://www.shazam.com/snippets/email-share/55248229?lang=en-US&country=US",
+              "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/86/8b/f4/868bf4e0-f177-e36a-683d-a13c0d9ab54d/mzl.alllawtn.png/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/55248229"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1440915693"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/eb/b3/6a/ebb36a60-c733-125f-2ff6-a5a4eb3206e2/mzaf_3040651120038854904.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/all-star/1440915299?i=1440915693&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/all-star/1440915299?i=1440915693&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/all-star/1440915299?i=1440915693&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "buy",
+                    "providername": "itunes"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:All%20Star%20Smash%20Mouth"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27All+Star%27%20artist%3A%27Smash+Mouth%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": false,
+              "displayname": "APPLE MUSIC"
+            },
+            "url": "https://www.shazam.com/track/55248229/all-star",
+            "artists": [
+              {
+                "id": "42",
+                "adamid": "105658"
+              }
+            ],
+            "isrc": "USIR19902220",
+            "genres": {
+              "primary": "Alternative"
+            },
+            "urlparams": {
+              "{tracktitle}": "All+Star",
+              "{trackartist}": "Smash+Mouth"
+            },
+            "myshazam": {
+              "apple": {
+                "actions": [
+                  {
+                    "name": "myshazam:apple",
+                    "type": "uri",
+                    "uri": "https://music.apple.com/us/album/all-star/1440915299?i=1440915693&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                  }
+                ]
+              }
+            },
+            "albumadamid": "1440915299",
+            "sections": [
+              {
+                "type": "SONG",
+                "metapages": [
+                  {
+                    "image": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/86/8b/f4/868bf4e0-f177-e36a-683d-a13c0d9ab54d/mzl.alllawtn.png/800x800cc.jpg",
+                    "caption": "Smash Mouth"
+                  },
+                  {
+                    "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/7f/e0/e4/7fe0e4dc-2f79-6a9b-5d3a-5d1df42b7aaf/06UMGIM04334.rgb.jpg/400x400cc.jpg",
+                    "caption": "All Star"
+                  }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                  {
+                    "title": "Album",
+                    "text": "Astro Lounge"
+                  },
+                  {
+                    "title": "Label",
+                    "text": "Interscope"
+                  },
+                  {
+                    "title": "Released",
+                    "text": "1999"
+                  }
+                ]
+              },
+              {
+                "type": "LYRICS",
+                "text": [
+                  "Somebody once told me",
+                  "The world is gonna roll me",
+                  "I ain't the sharpest tool in the shed",
+                  "She was looking kind of dumb",
+                  "With her finger and her thumb",
+                  "In the shape of an \"L\" on her forehead",
+                  "",
+                  "Well, the years start coming",
+                  "And they don't stop coming",
+                  "Fed to the rules and I hit the ground running",
+                  "Didn't make sense not to live for fun",
+                  "Your brain gets smart, but your head gets dumb",
+                  "",
+                  "So much to do, so much to see",
+                  "So what's wrong with taking the back streets?",
+                  "You'll never know if you don't go",
+                  "You'll never shine if you don't glow",
+                  "",
+                  "Hey now, you're an all star",
+                  "Get your game on, go play",
+                  "Hey now, you're a rock star",
+                  "Get the show on, get paid",
+                  "And all that glitters is gold",
+                  "Only shooting stars break the mold",
+                  "",
+                  "It's a cool place and they say it gets colder",
+                  "You're bundled up now, wait 'til you get older",
+                  "But the meteor men beg to differ",
+                  "Judging by the hole in the satellite picture",
+                  "",
+                  "The ice we skate is getting pretty thin",
+                  "The water's getting warm so you might as well swim",
+                  "My world's on fire, how about yours?",
+                  "That's the way I like it and I never get bored",
+                  "",
+                  "Hey now, you're an all star",
+                  "Get your game on, go play",
+                  "Hey now, you're a rock star",
+                  "Get the show on, get paid",
+                  "All that glitters is gold",
+                  "Only shooting stars break the mold",
+                  "",
+                  "(Go for the moon, go, go)",
+                  "(Go for the moon, go, go)",
+                  "(Go for the moon)",
+                  "(Go, go, go for the moon)",
+                  "",
+                  "Hey now, you're an all star",
+                  "Get your game on, go play",
+                  "Hey now, you're a rock star",
+                  "Get the show on, get paid",
+                  "And all that glitters is gold",
+                  "Only shooting stars",
+                  "",
+                  "Somebody once asked",
+                  "\"Could I spare some change for gas?",
+                  "I need to get myself away from this place\"",
+                  "I said, \"Yep, what a concept",
+                  "I could use a little fuel myself\"",
+                  "And we could all use a little change",
+                  "",
+                  "Well, the years start coming",
+                  "And they don't stop coming",
+                  "Fed to the rules and I hit the ground running",
+                  "Didn't make sense not to live for fun",
+                  "Your brain gets smart, but your head gets dumb",
+                  "",
+                  "So much to do, so much to see",
+                  "So what's wrong with taking the back streets?",
+                  "You'll never know if you don't go (go!)",
+                  "You'll never shine if you don't glow",
+                  "",
+                  "Hey now, you're an all star",
+                  "Get your game on, go play",
+                  "Hey now, you're a rock star",
+                  "Get the show on, get paid",
+                  "",
+                  "And all that glitters is gold",
+                  "Only shooting stars break the mold",
+                  "And all that glitters is gold",
+                  "Only shooting stars break the mold"
+                ],
+                "footer": "Writer(s): Greg Camp\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                  "lyricsid": "29284756",
+                  "providername": "musixmatch",
+                  "commontrackid": "86149"
+                }
+              },
+              {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": {
+                  "caption": "Smash Mouth - All Star (Official Music Video)",
+                  "image": {
+                    "dimensions": {
+                      "width": 640,
+                      "height": 480
+                    },
+                    "url": "https://i.ytimg.com/vi/L_jWHffIx5E/sddefault.jpg"
+                  },
+                  "actions": [
+                    {
+                      "name": "video:youtube",
+                      "type": "webview",
+                      "share": {
+                        "subject": "All Star - Smash Mouth",
+                        "text": "I used Shazam to discover All Star by Smash Mouth.",
+                        "href": "https://www.shazam.com/track/55248229/all-star",
+                        "image": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/7f/e0/e4/7fe0e4dc-2f79-6a9b-5d3a-5d1df42b7aaf/06UMGIM04334.rgb.jpg/400x400cc.jpg",
+                        "twitter": "I used @Shazam to discover All Star by Smash Mouth.",
+                        "html": "https://www.shazam.com/snippets/email-share/55248229?lang=-&country=US",
+                        "avatar": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/86/8b/f4/868bf4e0-f177-e36a-683d-a13c0d9ab54d/mzl.alllawtn.png/800x800cc.jpg",
+                        "snapchat": "https://www.shazam.com/partner/sc/track/55248229"
+                      },
+                      "uri": "https://youtu.be/L_jWHffIx5E?autoplay=1"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "RELATED",
+                "tabname": "Related"
+              }
+            ]
+          },
+          {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "319453066",
+            "title": "Good Grief",
+            "subtitle": "Bastille",
+            "images": {
+              "background": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/89/df/4f/89df4fae-477e-3c28-5e80-33421321fb5f/pr_source.png/800x800cc.jpg",
+              "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/15/4d/e4/154de45b-c8bf-78ac-1d15-6cff7171bd78/16UMGIM34199.rgb.jpg/400x400cc.jpg",
+              "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/15/4d/e4/154de45b-c8bf-78ac-1d15-6cff7171bd78/16UMGIM34199.rgb.jpg/400x400cc.jpg",
+              "joecolor": "b:131d27p:ffffffs:dec9b5t:cfd1d3q:b5a699"
+            },
+            "share": {
+              "subject": "Good Grief - Bastille",
+              "text": "I used Shazam to discover Good Grief by Bastille.",
+              "href": "https://www.shazam.com/track/319453066/good-grief",
+              "image": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/15/4d/e4/154de45b-c8bf-78ac-1d15-6cff7171bd78/16UMGIM34199.rgb.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Good Grief by Bastille.",
+              "html": "https://www.shazam.com/snippets/email-share/319453066?lang=en-US&country=US",
+              "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/89/df/4f/89df4fae-477e-3c28-5e80-33421321fb5f/pr_source.png/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/319453066"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1440849880"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f6/04/ce/f604ceaf-5e3c-30f3-f1e9-3d1e8b8324ff/mzaf_13771984777290859055.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/good-grief/1440849867?i=1440849880&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/good-grief/1440849867?i=1440849880&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/good-grief/1440849867?i=1440849880&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "buy",
+                    "providername": "itunes"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:Good%20Grief%20Bastille"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Good+Grief%27%20artist%3A%27Bastille%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": false,
+              "displayname": "APPLE MUSIC"
+            },
+            "url": "https://www.shazam.com/track/319453066/good-grief",
+            "artists": [
+              {
+                "id": "42",
+                "adamid": "420203509"
+              }
+            ],
+            "isrc": "GBUM71602854",
+            "genres": {
+              "primary": "Alternative"
+            },
+            "urlparams": {
+              "{tracktitle}": "Good+Grief",
+              "{trackartist}": "Bastille"
+            },
+            "myshazam": {
+              "apple": {
+                "actions": [
+                  {
+                    "name": "myshazam:apple",
+                    "type": "uri",
+                    "uri": "https://music.apple.com/us/album/good-grief/1440849867?i=1440849880&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                  }
+                ]
+              }
+            },
+            "albumadamid": "1440849867",
+            "sections": [
+              {
+                "type": "SONG",
+                "metapages": [
+                  {
+                    "image": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/89/df/4f/89df4fae-477e-3c28-5e80-33421321fb5f/pr_source.png/800x800cc.jpg",
+                    "caption": "Bastille"
+                  },
+                  {
+                    "image": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/15/4d/e4/154de45b-c8bf-78ac-1d15-6cff7171bd78/16UMGIM34199.rgb.jpg/400x400cc.jpg",
+                    "caption": "Good Grief"
+                  }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                  {
+                    "title": "Album",
+                    "text": "Wild World"
+                  },
+                  {
+                    "title": "Label",
+                    "text": "Virgin Records Ltd"
+                  },
+                  {
+                    "title": "Released",
+                    "text": "2016"
+                  }
+                ]
+              },
+              {
+                "type": "LYRICS",
+                "text": [
+                  "So, what would you little maniacs like to do first?",
+                  "",
+                  "Watching through my fingers",
+                  "Watching through my fingers",
+                  "",
+                  "Shut my eyes and count to ten",
+                  "It goes in one ear out the other,",
+                  "One ear out the other",
+                  "Burning bright right till the end",
+                  "Now you'll be missing from the photographs,",
+                  "Missing from the photographs",
+                  "",
+                  "Watching through my fingers",
+                  "Watching through my fingers",
+                  "",
+                  "In my thoughts you're far away",
+                  "And you are whistling the melody,",
+                  "Whistling the melody",
+                  "Crystallizing clear as day",
+                  "Oh I can picture you so easily,",
+                  "Picture you so easily",
+                  "",
+                  "What's gonna be left of the world if you're not in it?",
+                  "What's gonna be left of the world, oh",
+                  "",
+                  "Every minute and every hour",
+                  "I miss you, I miss you, I miss you more",
+                  "Every stumble and each misfire",
+                  "I miss you, I miss you, I miss you more",
+                  "",
+                  "Watching through my fingers",
+                  "Watching through my fingers",
+                  "",
+                  "Caught off guard by your favourite song",
+                  "Will I be dancing at a funeral?",
+                  "Dancing at a funeral",
+                  "Sleeping in the clothes you love",
+                  "It's such a shame we have to see them burn,",
+                  "Shame we have to see them burn",
+                  "",
+                  "What's gonna be left of the world if you're not in it?",
+                  "What's gonna be left of the world, oh",
+                  "",
+                  "Every minute and every hour",
+                  "I miss you, I miss you, I miss you more",
+                  "Every stumble and each misfire",
+                  "I miss you, I miss you, I miss you more",
+                  "",
+                  "If you want to be a party animal,",
+                  "You have to learn to live in the jungle",
+                  "Now stop worrying and go get dressed",
+                  "",
+                  "You might have to excuse me",
+                  "I've lost control of all my senses",
+                  "And you might have to excuse me",
+                  "I've lost control of all my words",
+                  "So get drunk, call me a fool",
+                  "Put me in my place, put me in my place",
+                  "Pick me up, up off the floor",
+                  "Put me in my place, put me in my place",
+                  "",
+                  "Every minute and every hour",
+                  "I miss you, I miss you, I miss you more",
+                  "Every stumble and each misfire",
+                  "I miss you, I miss you, I miss you more",
+                  "",
+                  "Watching through my fingers",
+                  "Watching through my fingers",
+                  "Cause every minute and every hour",
+                  "I miss you, I miss you, I miss you more"
+                ],
+                "footer": "Writer(s): Dan Smith, Mark Crew\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                  "lyricsid": "15882580",
+                  "providername": "musixmatch",
+                  "commontrackid": "62384621"
+                }
+              },
+              {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": {
+                  "caption": "Bastille - Good Grief (Official Music Video)",
+                  "image": {
+                    "dimensions": {
+                      "width": 1280,
+                      "height": 720
+                    },
+                    "url": "https://i.ytimg.com/vi/ZWCB3hpJDXM/maxresdefault.jpg"
+                  },
+                  "actions": [
+                    {
+                      "name": "video:youtube",
+                      "type": "webview",
+                      "share": {
+                        "subject": "Good Grief - Bastille",
+                        "text": "I used Shazam to discover Good Grief by Bastille.",
+                        "href": "https://www.shazam.com/track/319453066/good-grief",
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/15/4d/e4/154de45b-c8bf-78ac-1d15-6cff7171bd78/16UMGIM34199.rgb.jpg/400x400cc.jpg",
+                        "twitter": "I used @Shazam to discover Good Grief by Bastille.",
+                        "html": "https://www.shazam.com/snippets/email-share/319453066?lang=-&country=US",
+                        "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/89/df/4f/89df4fae-477e-3c28-5e80-33421321fb5f/pr_source.png/800x800cc.jpg",
+                        "snapchat": "https://www.shazam.com/partner/sc/track/319453066"
+                      },
+                      "uri": "https://youtu.be/ZWCB3hpJDXM?autoplay=1"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "RELATED",
+                "tabname": "Related"
+              }
+            ]
+          },
+          {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "329047099",
+            "title": "Congratulations (feat. Bilal)",
+            "subtitle": "Mac Miller",
+            "images": {
+              "background": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f4/d4/70/f4d470f9-d15a-be8d-add5-d53340dac9c1/mzl.larabvqb.jpg/800x800cc.jpg",
+              "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/cc/4d/33cc4d85-e92a-b171-1b72-4dc882ce2359/093624918844.jpg/400x400cc.jpg",
+              "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/cc/4d/33cc4d85-e92a-b171-1b72-4dc882ce2359/093624918844.jpg/400x400cc.jpg",
+              "joecolor": "b:d9c0bcp:0b0c0cs:131213t:34302fq:3b3535"
+            },
+            "share": {
+              "subject": "Congratulations (feat. Bilal) - Mac Miller",
+              "text": "I used Shazam to discover Congratulations (feat. Bilal) by Mac Miller.",
+              "href": "https://www.shazam.com/track/329047099/congratulations-feat-bilal",
+              "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/cc/4d/33cc4d85-e92a-b171-1b72-4dc882ce2359/093624918844.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Congratulations (feat. Bilal) by Mac Miller.",
+              "html": "https://www.shazam.com/snippets/email-share/329047099?lang=en-US&country=US",
+              "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f4/d4/70/f4d470f9-d15a-be8d-add5-d53340dac9c1/mzl.larabvqb.jpg/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/329047099"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1137966091"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/1d/43/44/1d4344c1-b93e-fe12-cbe8-29a6a7af4383/mzaf_18095713069955039863.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/congratulations-feat-bilal/1137965822?i=1137966091&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/congratulations-feat-bilal/1137965822?i=1137966091&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/congratulations-feat-bilal/1137965822?i=1137966091&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "buy",
+                    "providername": "itunes"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:Congratulations%20%28feat.%20Bilal%29%20Mac%20Miller"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Congratulations+%28feat.+Bilal%29%27%20artist%3A%27Mac+Miller%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": true,
+              "displayname": "APPLE MUSIC"
+            },
+            "url": "https://www.shazam.com/track/329047099/congratulations-feat-bilal",
+            "artists": [
+              {
+                "id": "42",
+                "adamid": "419944559"
+              }
+            ],
+            "isrc": "USWB11601443",
+            "genres": {
+              "primary": "Hip-Hop"
+            },
+            "urlparams": {
+              "{tracktitle}": "Congratulations+%28feat.+Bilal%29",
+              "{trackartist}": "Mac+Miller"
+            },
+            "myshazam": {
+              "apple": {
+                "actions": [
+                  {
+                    "name": "myshazam:apple",
+                    "type": "uri",
+                    "uri": "https://music.apple.com/us/album/congratulations-feat-bilal/1137965822?i=1137966091&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                  }
+                ]
+              }
+            },
+            "albumadamid": "1137965822",
+            "sections": [
+              {
+                "type": "SONG",
+                "metapages": [
+                  {
+                    "image": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f4/d4/70/f4d470f9-d15a-be8d-add5-d53340dac9c1/mzl.larabvqb.jpg/800x800cc.jpg",
+                    "caption": "Mac Miller"
+                  },
+                  {
+                    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/cc/4d/33cc4d85-e92a-b171-1b72-4dc882ce2359/093624918844.jpg/400x400cc.jpg",
+                    "caption": "Congratulations (feat. Bilal)"
+                  }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                  {
+                    "title": "Album",
+                    "text": "The Divine Feminine"
+                  },
+                  {
+                    "title": "Label",
+                    "text": "Warner Records"
+                  },
+                  {
+                    "title": "Released",
+                    "text": "2016"
+                  }
+                ]
+              },
+              {
+                "type": "LYRICS",
+                "text": [
+                  "Where are you?",
+                  "Ohhhhh-ohhh (hehehe)",
+                  "Ohhhhh",
+                  "The Divine Feminine, an album by Mac Miller",
+                  "Ohhhhh-ohhh",
+                  "(The Divine Feminine, hehehe)",
+                  "(The Divine Feminine, hehehe)",
+                  "Ohhhhh",
+                  "",
+                  "Am I supposed to? Okay",
+                  "Love",
+                  "Love, love, love, love, love (sex)",
+                  "Love, love, love, love, love, love, love (sex)",
+                  "",
+                  "This sun don't shine when I'm alone",
+                  "I lose my mind and I lose control",
+                  "I see your eyes look through my soul",
+                  "Don't be surprised this all I know",
+                  "I felt the highs and they felt like you",
+                  "See a love like mine is too good to be true",
+                  "And you too divine to just be mine",
+                  "You remind me of the color blue",
+                  "Girl I'm so in love with you, yeah",
+                  "Girl I'm so in love with you",
+                  "Yeah, yeah",
+                  "Yeah, yeah, yeah, yeah",
+                  "",
+                  "Well, baby",
+                  "You were everything I ever wanted",
+                  "Bought a wedding ring it's in my pocket",
+                  "Planned to ask the other day",
+                  "Knew you'd run away so I guess I just forgot it",
+                  "Remember when you went away to college",
+                  "I was on the phone, we into talkin'",
+                  "Past, present, future, all the gossip, God damn",
+                  "Puppy love ain't what it was darlin'",
+                  "Feelings that we have are so alarmin'",
+                  "I can make you laugh, I can break the glass",
+                  "If we made it last, it'd be a bargain",
+                  "Mr. Charmin' that is my department",
+                  "You was there before the fancy cars and",
+                  "You was there when I was just a starvin' artist",
+                  "When the car was havin' trouble startin'",
+                  "Now we got our own apartment, same box for the mail",
+                  "Same hamper for the laundry, the food in the fridge is stale",
+                  "And this mornin' you cooked the eggs with the kale",
+                  "I tried to hit it while you was gettin' dressed",
+                  "You said \"all you ever think about is sex\"",
+                  "I'm like, \"Oh well, you know me so well",
+                  "And if this will make you lay I swear I won't tell",
+                  "And every time I call your phone",
+                  "You better pick up your cell",
+                  "I swear to God I'ma freak out",
+                  "If it go straight to voice mail\"",
+                  "Well I'm the jealous type",
+                  "But I swear that ass what Heaven's like",
+                  "When I'm in that pussy it's a better life",
+                  "That's the only way I'm tryna end the night",
+                  "That's my only chance, I better get it right",
+                  "",
+                  "Take your time my baby",
+                  "Cause I'm waitin' for you, for you",
+                  "And I'ma make your mind go crazy",
+                  "Cause I'm waitin' right here for you, for you",
+                  "",
+                  "You get closer with me run away",
+                  "All I ever know is the color gray",
+                  "Your loveliness bring me sunshine",
+                  "I found an angel so divine",
+                  "Heaven probably not the same without you",
+                  "But now you're in my world",
+                  "In my world, ahhhh-ahh",
+                  "Ahhh-ahhhh, ahhh-ahhh"
+                ],
+                "footer": "Writer(s): Bilal Oliver, Malcolm James Mccormick, Aja Grant\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                  "lyricsid": "15889163",
+                  "providername": "musixmatch",
+                  "commontrackid": "63016980"
+                }
+              },
+              {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": {
+                  "caption": "Mac Miller - Congratulations (feat. Bilal)",
+                  "image": {
+                    "dimensions": {
+                      "width": 1280,
+                      "height": 720
+                    },
+                    "url": "https://i.ytimg.com/vi/JoFkQ7iAQcw/maxresdefault.jpg"
+                  },
+                  "actions": [
+                    {
+                      "name": "video:youtube",
+                      "type": "webview",
+                      "share": {
+                        "subject": "Congratulations (feat. Bilal) - Mac Miller",
+                        "text": "I used Shazam to discover Congratulations (feat. Bilal) by Mac Miller.",
+                        "href": "https://www.shazam.com/track/329047099/congratulations-feat-bilal",
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/33/cc/4d/33cc4d85-e92a-b171-1b72-4dc882ce2359/093624918844.jpg/400x400cc.jpg",
+                        "twitter": "I used @Shazam to discover Congratulations (feat. Bilal) by Mac Miller.",
+                        "html": "https://www.shazam.com/snippets/email-share/329047099?lang=-&country=US",
+                        "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Features125/v4/f4/d4/70/f4d470f9-d15a-be8d-add5-d53340dac9c1/mzl.larabvqb.jpg/800x800cc.jpg",
+                        "snapchat": "https://www.shazam.com/partner/sc/track/329047099"
+                      },
+                      "uri": "https://youtu.be/JoFkQ7iAQcw?autoplay=1"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "RELATED",
+                "tabname": "Related"
+              }
+            ]
+          },
+          {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "374244185",
+            "title": "rockstar",
+            "subtitle": "Post Malone Feat. 21 Savage",
+            "images": {
+              "background": "https://is5-ssl.mzstatic.com/image/thumb/Features112/v4/8a/a1/b5/8aa1b58e-94c5-f6ea-69d4-1ea688df3522/mzl.qcmhftom.jpg/800x800cc.jpg",
+              "coverart": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7e/3c/4e/7e3c4ef6-daa7-cc10-57d0-45f5a562eaf5/18UMGIM22101.rgb.jpg/400x400cc.jpg",
+              "coverarthq": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7e/3c/4e/7e3c4ef6-daa7-cc10-57d0-45f5a562eaf5/18UMGIM22101.rgb.jpg/400x400cc.jpg",
+              "joecolor": "b:f2f0f1p:121210s:151514t:3e3e3dq:414140"
+            },
+            "share": {
+              "subject": "rockstar - Post Malone Feat. 21 Savage",
+              "text": "I used Shazam to discover rockstar by Post Malone Feat. 21 Savage.",
+              "href": "https://www.shazam.com/track/374244185/rockstar-feat-21-savage",
+              "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7e/3c/4e/7e3c4ef6-daa7-cc10-57d0-45f5a562eaf5/18UMGIM22101.rgb.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover rockstar by Post Malone Feat. 21 Savage.",
+              "html": "https://www.shazam.com/snippets/email-share/374244185?lang=en-US&country=US",
+              "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features112/v4/8a/a1/b5/8aa1b58e-94c5-f6ea-69d4-1ea688df3522/mzl.qcmhftom.jpg/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/374244185"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1373516920"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/10/c1/3d/10c13d42-fd93-9b85-2576-dcdf3d65ef76/mzaf_16968465791460660080.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/rockstar-feat-21-savage/1373516902?i=1373516920&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/rockstar-feat-21-savage/1373516902?i=1373516920&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/rockstar-feat-21-savage/1373516902?i=1373516920&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "buy",
+                    "providername": "itunes"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:rockstar%20Post%20Malone"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27rockstar%27%20artist%3A%27Post+Malone%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": true,
+              "displayname": "APPLE MUSIC"
+            },
+            "url": "https://www.shazam.com/track/374244185/rockstar-feat-21-savage",
+            "artists": [
+              {
+                "id": "42",
+                "adamid": "966309175"
+              }
+            ],
+            "isrc": "USUM71710087",
+            "genres": {
+              "primary": "Hip-Hop/Rap"
+            },
+            "urlparams": {
+              "{tracktitle}": "rockstar",
+              "{trackartist}": "Post+Malone"
+            },
+            "myshazam": {
+              "apple": {
+                "actions": [
+                  {
+                    "name": "myshazam:apple",
+                    "type": "uri",
+                    "uri": "https://music.apple.com/us/album/rockstar-feat-21-savage/1373516902?i=1373516920&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                  }
+                ]
+              }
+            },
+            "albumadamid": "1373516902",
+            "sections": [
+              {
+                "type": "SONG",
+                "metapages": [
+                  {
+                    "image": "https://is5-ssl.mzstatic.com/image/thumb/Features112/v4/8a/a1/b5/8aa1b58e-94c5-f6ea-69d4-1ea688df3522/mzl.qcmhftom.jpg/800x800cc.jpg",
+                    "caption": "Post Malone"
+                  },
+                  {
+                    "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7e/3c/4e/7e3c4ef6-daa7-cc10-57d0-45f5a562eaf5/18UMGIM22101.rgb.jpg/400x400cc.jpg",
+                    "caption": "rockstar"
+                  }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                  {
+                    "title": "Album",
+                    "text": "beerbongs & bentleys"
+                  },
+                  {
+                    "title": "Label",
+                    "text": "Universal Records"
+                  },
+                  {
+                    "title": "Released",
+                    "text": "2017"
+                  }
+                ]
+              },
+              {
+                "type": "LYRICS",
+                "text": [
+                  "Hahahahaha",
+                  "Tank God",
+                  "Ayy, ayy",
+                  "",
+                  "I've been fuckin' hoes and poppin' pillies",
+                  "Man, I feel just like a rockstar (ayy, ayy)",
+                  "All my brothers got that gas",
+                  "And they always be smokin' like a Rasta",
+                  "Fuckin' with me, call up on a Uzi",
+                  "And show up, man, them the shottas",
+                  "When my homies pull up on your block",
+                  "They make that thing go grrra-ta-ta-ta (ta, pow, pow, pow, ayy, ayy)",
+                  "",
+                  "Switch my whip, came back in black",
+                  "I'm startin' sayin', \"Rest in peace to Bon Scott\" (Scott, ayy)",
+                  "Close that door, we blowin' smoke",
+                  "She ask me light a fire like I'm Morrison ('son, ayy)",
+                  "Act a fool on stage",
+                  "Prolly leave my fuckin' show in a cop car (car, ayy)",
+                  "Shit was legendary",
+                  "Threw a TV out the window of the Montage",
+                  "",
+                  "Cocaine on the table, liquor pourin', don't give a damn",
+                  "Dude, your girlfriend is a groupie, she just tryna get in",
+                  "Sayin', \"I'm with the band\" (ayy, ayy)",
+                  "Now she actin' outta pocket, tryna grab up on my pants",
+                  "Hundred bitches in my trailer say they ain't got a man",
+                  "And they all brought a friend (yeah, ayy, ayy, ayy)",
+                  "",
+                  "I've been fuckin' hoes and poppin' pillies",
+                  "Man, I feel just like a rockstar (ayy, ayy)",
+                  "All my brothers got that gas",
+                  "And they always be smokin' like a Rasta",
+                  "Fuckin' with me, call up on a Uzi",
+                  "And show up, man, them the shottas",
+                  "When my homies pull up on your block",
+                  "They make that thing go grrra-ta-ta-ta (ta, pow, pow, pow)",
+                  "",
+                  "I've been in the Hills fuckin' superstars",
+                  "Feelin' like a popstar (21, 21, 21)",
+                  "Drinkin' Henny, bad bitches jumpin' in the pool",
+                  "And they ain't got on no bra (bra)",
+                  "Hit her from the back, pullin' on her tracks",
+                  "And now she screamin' out, \"¡No más!\" (yeah, yeah, yeah)",
+                  "They like, \"Savage, why you got a twelve car garage",
+                  "And you only got six cars?\" (21)",
+                  "",
+                  "I ain't with the cakin', how you kiss that? (kiss that?)",
+                  "Your wifey say I'm lookin' like a whole snack (big snack)",
+                  "Green hundreds in my safe, I got old racks (old racks)",
+                  "L.A. bitches always askin', \"Where the coke at?\" (21, 21)",
+                  "Livin' like a rockstar, smash out on a cop car",
+                  "Sweeter than a Pop-Tart, you know you are not hard",
+                  "I done made the hot chart, 'member I used to trap hard",
+                  "Livin' like a rockstar, I'm livin' like a rockstar (ayy)",
+                  "",
+                  "I've been fuckin' hoes and poppin' pillies",
+                  "Man, I feel just like a rockstar (ayy, ayy)",
+                  "All my brothers got that gas",
+                  "And they always be smokin' like a Rasta (yeah, yeah, yeah, yeah)",
+                  "Fuckin' with me, call up on a Uzi",
+                  "And show up, man, them the shottas",
+                  "When my homies pull up on your block",
+                  "They make that thing go grrra-ta-ta-ta (ta, grrra-ta-ta-ta-ta)",
+                  "",
+                  "Star, star, rockstar, rockstar, star",
+                  "Rockstar",
+                  "Rockstar, feel just like a-",
+                  "Rockstar",
+                  "Rockstar",
+                  "Rockstar",
+                  "Feel just like a"
+                ],
+                "footer": "Writer(s): Austin Post, Louis Bell, Olufunmibi Awoshiley, Shayaa Abraham-joseph\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                  "lyricsid": "30833141",
+                  "providername": "musixmatch",
+                  "commontrackid": "75718355"
+                }
+              },
+              {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": {
+                  "caption": "Post Malone ft. 21 Savage - rockstar (Official Music Video)",
+                  "image": {
+                    "dimensions": {
+                      "width": 1280,
+                      "height": 720
+                    },
+                    "url": "https://i.ytimg.com/vi/UceaB4D0jpo/maxresdefault.jpg"
+                  },
+                  "actions": [
+                    {
+                      "name": "video:youtube",
+                      "type": "webview",
+                      "share": {
+                        "subject": "rockstar - Post Malone Feat. 21 Savage",
+                        "text": "I used Shazam to discover rockstar by Post Malone Feat. 21 Savage.",
+                        "href": "https://www.shazam.com/track/374244185/rockstar-feat-21-savage",
+                        "image": "https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/7e/3c/4e/7e3c4ef6-daa7-cc10-57d0-45f5a562eaf5/18UMGIM22101.rgb.jpg/400x400cc.jpg",
+                        "twitter": "I used @Shazam to discover rockstar by Post Malone Feat. 21 Savage.",
+                        "html": "https://www.shazam.com/snippets/email-share/374244185?lang=-&country=US",
+                        "avatar": "https://is5-ssl.mzstatic.com/image/thumb/Features112/v4/8a/a1/b5/8aa1b58e-94c5-f6ea-69d4-1ea688df3522/mzl.qcmhftom.jpg/800x800cc.jpg",
+                        "snapchat": "https://www.shazam.com/partner/sc/track/374244185"
+                      },
+                      "uri": "https://youtu.be/UceaB4D0jpo?autoplay=1"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "RELATED",
+                "tabname": "Related"
+              }
+            ]
+          },
+          {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "83147960",
+            "title": "Counting Stars",
+            "subtitle": "OneRepublic",
+            "images": {
+              "background": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/cc/0e/16/cc0e16cd-642c-001f-180c-9d6e6080d5c7/pr_source.png/800x800cc.jpg",
+              "coverart": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/c3/7a/b0/c37ab0a2-f319-cb7c-3790-0e39cd845776/14UMGIM12027.rgb.jpg/400x400cc.jpg",
+              "coverarthq": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/c3/7a/b0/c37ab0a2-f319-cb7c-3790-0e39cd845776/14UMGIM12027.rgb.jpg/400x400cc.jpg",
+              "joecolor": "b:291a15p:d8c09as:cebb96t:b59f7fq:ad9b7c"
+            },
+            "share": {
+              "subject": "Counting Stars - OneRepublic",
+              "text": "I used Shazam to discover Counting Stars by OneRepublic.",
+              "href": "https://www.shazam.com/track/83147960/counting-stars",
+              "image": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/c3/7a/b0/c37ab0a2-f319-cb7c-3790-0e39cd845776/14UMGIM12027.rgb.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Counting Stars by OneRepublic.",
+              "html": "https://www.shazam.com/snippets/email-share/83147960?lang=en-US&country=US",
+              "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/cc/0e/16/cc0e16cd-642c-001f-180c-9d6e6080d5c7/pr_source.png/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/83147960"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "1440854049"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/dd/43/ef/dd43ef37-9bc5-46ee-be75-57a291ed4ceb/mzaf_15244398524523461763.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/counting-stars/1440854038?i=1440854049&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/counting-stars/1440854038?i=1440854049&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/counting-stars/1440854038?i=1440854049&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "buy",
+                    "providername": "itunes"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:Counting%20Stars%20OneRepublic"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Counting+Stars%27%20artist%3A%27OneRepublic%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": false,
+              "displayname": "APPLE MUSIC"
+            },
+            "url": "https://www.shazam.com/track/83147960/counting-stars",
+            "artists": [
+              {
+                "id": "42",
+                "adamid": "260414340"
+              }
+            ],
+            "isrc": "USUM71301306",
+            "genres": {
+              "primary": "Pop"
+            },
+            "urlparams": {
+              "{tracktitle}": "Counting+Stars",
+              "{trackartist}": "OneRepublic"
+            },
+            "myshazam": {
+              "apple": {
+                "actions": [
+                  {
+                    "name": "myshazam:apple",
+                    "type": "uri",
+                    "uri": "https://music.apple.com/us/album/counting-stars/1440854038?i=1440854049&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                  }
+                ]
+              }
+            },
+            "albumadamid": "1440854038",
+            "sections": [
+              {
+                "type": "SONG",
+                "metapages": [
+                  {
+                    "image": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/cc/0e/16/cc0e16cd-642c-001f-180c-9d6e6080d5c7/pr_source.png/800x800cc.jpg",
+                    "caption": "OneRepublic"
+                  },
+                  {
+                    "image": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/c3/7a/b0/c37ab0a2-f319-cb7c-3790-0e39cd845776/14UMGIM12027.rgb.jpg/400x400cc.jpg",
+                    "caption": "Counting Stars"
+                  }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                  {
+                    "title": "Album",
+                    "text": "Native (Gold Edition)"
+                  },
+                  {
+                    "title": "Label",
+                    "text": "Mosley / Interscope"
+                  },
+                  {
+                    "title": "Released",
+                    "text": "2013"
+                  }
+                ]
+              },
+              {
+                "type": "LYRICS",
+                "text": [
+                  "Lately, I've been, I've been losing sleep",
+                  "Dreaming about the things that we could be",
+                  "But baby, I've been, I've been praying hard",
+                  "Said, \"No more counting dollars, we'll be counting stars\"",
+                  "Yeah, we'll be counting stars",
+                  "",
+                  "I see this life, like a swinging vine",
+                  "Swing my heart across the line",
+                  "And in my face is flashing signs",
+                  "Seek it out and ye shall find",
+                  "",
+                  "Old, but I'm not that old",
+                  "Young, but I'm not that bold",
+                  "And I don't think the world is sold",
+                  "On just doing what we're told",
+                  "",
+                  "I feel something so right",
+                  "Doing the wrong thing",
+                  "And I feel something so wrong",
+                  "Doing the right thing",
+                  "I couldn't lie, couldn't lie, couldn't lie",
+                  "Everything that kills me makes me feel alive",
+                  "",
+                  "Lately, I've been, I've been losing sleep",
+                  "Dreaming about the things that we could be",
+                  "But baby, I've been, I've been praying hard",
+                  "Said, \"No more counting dollars, we'll be counting stars\"",
+                  "",
+                  "Lately, I've been, I've been losing sleep",
+                  "Dreaming about the things we could be",
+                  "But baby, I've been, I've been praying hard",
+                  "Said, \"No more counting dollars, we'll be, we'll be counting stars\"",
+                  "",
+                  "Yeah, yeah",
+                  "",
+                  "I feel your love, and I feel it burn",
+                  "Down this river, every turn",
+                  "Hope is our four-letter word",
+                  "Make that money, watch it burn",
+                  "",
+                  "Old, but I'm not that old",
+                  "Young, but I'm not that bold",
+                  "And I don't think the world is sold",
+                  "On just doing what we're told",
+                  "",
+                  "And I feel something so wrong",
+                  "Doing the right thing",
+                  "I couldn't lie, couldn't lie, couldn't lie",
+                  "Everything that drowns me makes me wanna fly",
+                  "",
+                  "Lately, I've been, I've been losing sleep",
+                  "Dreaming about the things that we could be",
+                  "But baby, I've been, I've been praying hard",
+                  "Said, \"No more counting dollars, we'll be counting stars\"",
+                  "",
+                  "Lately, I've been, I've been losing sleep",
+                  "Dreaming about the things that we could be",
+                  "But baby, I've been, I've been praying hard",
+                  "Said, \"No more counting dollars, we'll be, we'll be counting stars\"",
+                  "",
+                  "Oh, take that money, watch it burn",
+                  "Sink in the river the lessons I've learned",
+                  "Take that money, watch it burn",
+                  "Sink in the river the lessons I've learned",
+                  "Take that money, watch it burn",
+                  "Sink in the river the lessons I've learned",
+                  "Take that money, watch it burn",
+                  "Sink in the river the lessons I've learned",
+                  "Everything that kills me makes me feel alive",
+                  "",
+                  "Lately, I've been, I've been losing sleep",
+                  "Dreaming about the things that we could be",
+                  "But baby, I've been, I've been praying hard",
+                  "Said, \"No more counting dollars, we'll be counting stars\"",
+                  "",
+                  "Lately, I've been, I've been losing sleep",
+                  "Dreaming about the things that we could be",
+                  "But baby, I've been, I've been praying hard",
+                  "Said, \"No more counting dollars, we'll be, we'll be counting stars\"",
+                  "",
+                  "Take that money, watch it burn",
+                  "Sink in the river the lessons I've learned",
+                  "Take that money, watch it burn",
+                  "Sink in the river the lessons I've learned",
+                  "Take that money, watch it burn",
+                  "Sink in the river the lessons I've learned",
+                  "Take that money, watch it burn",
+                  "Sink in the river the lessons I've learned"
+                ],
+                "footer": "Writer(s): Ryan Tedder\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                  "lyricsid": "28104543",
+                  "providername": "musixmatch",
+                  "commontrackid": "11912327"
+                }
+              },
+              {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": {
+                  "caption": "OneRepublic - Counting Stars (Official Music Video)",
+                  "image": {
+                    "dimensions": {
+                      "width": 1280,
+                      "height": 720
+                    },
+                    "url": "https://i.ytimg.com/vi/hT_nvWreIhg/maxresdefault.jpg"
+                  },
+                  "actions": [
+                    {
+                      "name": "video:youtube",
+                      "type": "webview",
+                      "share": {
+                        "subject": "Counting Stars - OneRepublic",
+                        "text": "I used Shazam to discover Counting Stars by OneRepublic.",
+                        "href": "https://www.shazam.com/track/83147960/counting-stars",
+                        "image": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/c3/7a/b0/c37ab0a2-f319-cb7c-3790-0e39cd845776/14UMGIM12027.rgb.jpg/400x400cc.jpg",
+                        "twitter": "I used @Shazam to discover Counting Stars by OneRepublic.",
+                        "html": "https://www.shazam.com/snippets/email-share/83147960?lang=-&country=US",
+                        "avatar": "https://is3-ssl.mzstatic.com/image/thumb/Music126/v4/cc/0e/16/cc0e16cd-642c-001f-180c-9d6e6080d5c7/pr_source.png/800x800cc.jpg",
+                        "snapchat": "https://www.shazam.com/partner/sc/track/83147960"
+                      },
+                      "uri": "https://youtu.be/hT_nvWreIhg?autoplay=1"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "RELATED",
+                "tabname": "Related"
+              }
+            ]
+          },
+          {
+            "layout": "5",
+            "type": "MUSIC",
+            "key": "92719600",
+            "title": "Take Me To Church",
+            "subtitle": "Hozier",
+            "images": {
+              "background": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/b4/4e/f6/b44ef6a1-ec7b-1cc2-4019-8cd6d6e7d3f5/pr_source.png/800x800cc.jpg",
+              "coverart": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e2/68/7f/e2687fea-d90f-002b-9ea4-b50f8fee6e75/886444702157.jpg/400x400cc.jpg",
+              "coverarthq": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e2/68/7f/e2687fea-d90f-002b-9ea4-b50f8fee6e75/886444702157.jpg/400x400cc.jpg",
+              "joecolor": "b:854426p:f6e9dfs:d7dea9t:e0c8baq:c6bf8e"
+            },
+            "share": {
+              "subject": "Take Me To Church - Hozier",
+              "text": "I used Shazam to discover Take Me To Church by Hozier.",
+              "href": "https://www.shazam.com/track/92719600/take-me-to-church",
+              "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e2/68/7f/e2687fea-d90f-002b-9ea4-b50f8fee6e75/886444702157.jpg/400x400cc.jpg",
+              "twitter": "I used @Shazam to discover Take Me To Church by Hozier.",
+              "html": "https://www.shazam.com/snippets/email-share/92719600?lang=en-US&country=US",
+              "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/b4/4e/f6/b44ef6a1-ec7b-1cc2-4019-8cd6d6e7d3f5/pr_source.png/800x800cc.jpg",
+              "snapchat": "https://www.shazam.com/partner/sc/track/92719600"
+            },
+            "hub": {
+              "type": "APPLEMUSIC",
+              "image": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic_{scalefactor}.png",
+              "actions": [
+                {
+                  "name": "apple",
+                  "type": "applemusicplay",
+                  "id": "923529775"
+                },
+                {
+                  "name": "apple",
+                  "type": "uri",
+                  "uri": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/0c/b7/e0/0cb7e03d-6734-a041-71bc-c27c0f95367d/mzaf_5548461691212262790.plus.aac.ep.m4a"
+                }
+              ],
+              "options": [
+                {
+                  "caption": "OPEN",
+                  "actions": [
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "applemusicopen",
+                      "uri": "https://music.apple.com/us/album/take-me-to-church/923529751?i=923529775&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    },
+                    {
+                      "name": "hub:applemusic:deeplink",
+                      "type": "uri",
+                      "uri": "https://music.apple.com/us/album/take-me-to-church/923529751?i=923529775&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "open",
+                    "providername": "applemusic"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/overflow-open-option_{scalefactor}.png",
+                  "type": "open",
+                  "listcaption": "Open in Apple Music",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/applemusic-overflow_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "applemusic"
+                },
+                {
+                  "caption": "BUY",
+                  "actions": [
+                    {
+                      "type": "uri",
+                      "uri": "https://itunes.apple.com/us/album/take-me-to-church/923529751?i=923529775&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=itunes&itsct=Shazam_ios"
+                    }
+                  ],
+                  "beacondata": {
+                    "type": "buy",
+                    "providername": "itunes"
+                  },
+                  "image": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "type": "buy",
+                  "listcaption": "Buy on iTunes",
+                  "overflowimage": "https://images.shazam.com/static/icons/hub/ios/v5/itunes-overflow-buy_{scalefactor}.png",
+                  "colouroverflowimage": false,
+                  "providername": "itunes"
+                }
+              ],
+              "providers": [
+                {
+                  "caption": "Open in Spotify",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/spotify-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/spotify_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:spotify:searchdeeplink",
+                      "type": "uri",
+                      "uri": "spotify:search:Take%20Me%20To%20Church%20Hozier"
+                    }
+                  ],
+                  "type": "SPOTIFY"
+                },
+                {
+                  "caption": "Open in Deezer",
+                  "images": {
+                    "overflow": "https://images.shazam.com/static/icons/hub/ios/v5/deezer-overflow_{scalefactor}.png",
+                    "default": "https://images.shazam.com/static/icons/hub/ios/v5/deezer_{scalefactor}.png"
+                  },
+                  "actions": [
+                    {
+                      "name": "hub:deezer:searchdeeplink",
+                      "type": "uri",
+                      "uri": "deezer-query://www.deezer.com/play?query=%7Btrack%3A%27Take+Me+To+Church%27%20artist%3A%27Hozier%27%7D"
+                    }
+                  ],
+                  "type": "DEEZER"
+                }
+              ],
+              "explicit": false,
+              "displayname": "APPLE MUSIC"
+            },
+            "url": "https://www.shazam.com/track/92719600/take-me-to-church",
+            "artists": [
+              {
+                "id": "42",
+                "adamid": "342260741"
+              }
+            ],
+            "isrc": "USSM11307291",
+            "genres": {
+              "primary": "Singer/Songwriter"
+            },
+            "urlparams": {
+              "{tracktitle}": "Take+Me+To+Church",
+              "{trackartist}": "Hozier"
+            },
+            "myshazam": {
+              "apple": {
+                "actions": [
+                  {
+                    "name": "myshazam:apple",
+                    "type": "uri",
+                    "uri": "https://music.apple.com/us/album/take-me-to-church/923529751?i=923529775&mttnagencyid=s2n&mttnsiteid=125115&mttn3pid=Apple-Shazam&mttnsub1=Shazam_ios&mttnsub2=5348615A-616D-3235-3830-44754D6D5973&itscg=30201&app=music&itsct=Shazam_ios"
+                  }
+                ]
+              }
+            },
+            "albumadamid": "923529751",
+            "sections": [
+              {
+                "type": "SONG",
+                "metapages": [
+                  {
+                    "image": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/b4/4e/f6/b44ef6a1-ec7b-1cc2-4019-8cd6d6e7d3f5/pr_source.png/800x800cc.jpg",
+                    "caption": "Hozier"
+                  },
+                  {
+                    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e2/68/7f/e2687fea-d90f-002b-9ea4-b50f8fee6e75/886444702157.jpg/400x400cc.jpg",
+                    "caption": "Take Me To Church"
+                  }
+                ],
+                "tabname": "Song",
+                "metadata": [
+                  {
+                    "title": "Album",
+                    "text": "Hozier"
+                  },
+                  {
+                    "title": "Label",
+                    "text": "Columbia"
+                  },
+                  {
+                    "title": "Released",
+                    "text": "2013"
+                  }
+                ]
+              },
+              {
+                "type": "LYRICS",
+                "text": [
+                  "My lover's got humour",
+                  "She's the giggle at a funeral",
+                  "Knows everybody's disapproval",
+                  "They should've worshipped her sooner",
+                  "If the heavens ever did speak",
+                  "She's the last true mouthpiece",
+                  "Every Sunday's getting more bleak",
+                  "A fresh poison each week",
+                  "",
+                  "We were born sick",
+                  "You heard them say it",
+                  "",
+                  "My church offers no absolutes",
+                  "She tells me, \"Worship in the bedroom\"",
+                  "The only heaven I'll be sent to",
+                  "Is when I'm alone with you",
+                  "",
+                  "I was born sick",
+                  "But I love it",
+                  "Command me to be well",
+                  "",
+                  "A-a-a-a-a-a-a, amen, amen, amen",
+                  "",
+                  "Take me to church",
+                  "I'll worship like a dog at the shrine of your lies",
+                  "I'll tell you my sins, and you can sharpen your knife",
+                  "Offer me that deathless death",
+                  "Oh good God, let me give you my life",
+                  "",
+                  "Take me to church",
+                  "I'll worship like a dog at the shrine of your lies",
+                  "I'll tell you my sins, and you can sharpen your knife",
+                  "Offer me that deathless death",
+                  "Oh good God, let me give you my life",
+                  "",
+                  "If I'm a pagan of the good times",
+                  "My lover's the sunlight",
+                  "To keep the goddess on my side",
+                  "She demands a sacrifice",
+                  "",
+                  "Drain the whole sea",
+                  "Get something shiny",
+                  "Something meaty for the main course",
+                  "That's a fine looking high horse",
+                  "What you got in the stable?",
+                  "We've a lot of starving faithful",
+                  "",
+                  "That looks tasty",
+                  "That looks plenty",
+                  "This is hungry work",
+                  "",
+                  "Take me to church",
+                  "I'll worship like a dog at the shrine of your lies",
+                  "I'll tell you my sins so you can sharpen your knife",
+                  "Offer me my deathless death",
+                  "Oh good God, let me give you my life",
+                  "",
+                  "Take me to church",
+                  "I'll worship like a dog at the shrine of your lies",
+                  "I'll tell you my sins so you can sharpen your knife",
+                  "Offer me my deathless death",
+                  "Oh good God, let me give you my life",
+                  "",
+                  "No masters or kings when the ritual begins",
+                  "There is no sweeter innocence than our gentle sin",
+                  "In the madness and soil of that sad earthly scene",
+                  "Only then, I am human",
+                  "Only then, I am clean",
+                  "",
+                  "Oh, oh, amen, amen, amen",
+                  "",
+                  "Take me to church",
+                  "I'll worship like a dog at the shrine of your lies",
+                  "I'll tell you my sins, and you can sharpen your knife",
+                  "Offer me that deathless death",
+                  "Oh good God, let me give you my life",
+                  "",
+                  "Take me to church",
+                  "I'll worship like a dog at the shrine of your lies",
+                  "I'll tell you my sins, and you can sharpen your knife",
+                  "Offer me that deathless death",
+                  "Oh good God, let me give you my life"
+                ],
+                "footer": "Writer(s): Andrew Hozier-byrne\nLyrics powered by www.musixmatch.com",
+                "tabname": "Lyrics",
+                "beacondata": {
+                  "lyricsid": "30090466",
+                  "providername": "musixmatch",
+                  "commontrackid": "13218489"
+                }
+              },
+              {
+                "type": "VIDEO",
+                "tabname": "Video",
+                "youtubeurl": {
+                  "caption": "Hozier - Take Me To Church",
+                  "image": {
+                    "dimensions": {
+                      "width": 1280,
+                      "height": 720
+                    },
+                    "url": "https://i.ytimg.com/vi/PVjiKRfKpPI/maxresdefault.jpg"
+                  },
+                  "actions": [
+                    {
+                      "name": "video:youtube",
+                      "type": "webview",
+                      "share": {
+                        "subject": "Take Me To Church - Hozier",
+                        "text": "I used Shazam to discover Take Me To Church by Hozier.",
+                        "href": "https://www.shazam.com/track/92719600/take-me-to-church",
+                        "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e2/68/7f/e2687fea-d90f-002b-9ea4-b50f8fee6e75/886444702157.jpg/400x400cc.jpg",
+                        "twitter": "I used @Shazam to discover Take Me To Church by Hozier.",
+                        "html": "https://www.shazam.com/snippets/email-share/92719600?lang=-&country=US",
+                        "avatar": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/b4/4e/f6/b44ef6a1-ec7b-1cc2-4019-8cd6d6e7d3f5/pr_source.png/800x800cc.jpg",
+                        "snapchat": "https://www.shazam.com/partner/sc/track/92719600"
+                      },
+                      "uri": "https://youtu.be/PVjiKRfKpPI?autoplay=1"
+                    }
+                  ]
+                }
+              },
+              {
+                "type": "RELATED",
+                "tabname": "Related"
+              }
+            ]
           }
     ]
 }
