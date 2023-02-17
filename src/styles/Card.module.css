@@ -40,3 +40,23 @@
     font-size: var(--font-size-xs);
     font-weight: 400;
 }
+
+.smallCard {
+    flex-direction: row;
+    width: 80%;
+    max-width: 347px;
+    height: 80px;
+}
+
+.smallCard .card__image{
+    width: 80px;
+    height: 80px;
+}
+
+.smallCard .card__info {
+    height: 100%;
+}
+
+.card__title, .card__author {
+    white-space: unset;
+}
