@@ -1,0 +1,46 @@
+.musicDetails__page {
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+.musicDetails__content {
+    width: 90%;
+    max-width: 1165px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 48px;
+}
+
+.musicDetails__video {
+    border-radius: 8px;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+}
+
+.musicDetails__recomendation_container{
+    border: 0.5px solid var(--gray);
+    max-width: 394px;
+    /* height: calc(80vh - 80px); */
+    height: 800px;
+    overflow-y: scroll;
+    width: 90%;
+}
+
+.musicDetails__recomendation_container::-webkit-scrollbar {
+    display: none;
+}
+
+.musicDetails__recomendation {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    align-items: center;
+}
+
+.recomendation__title {
+    font-weight: 300;
+    align-self: flex-start;
+    padding: 24px;
+}
