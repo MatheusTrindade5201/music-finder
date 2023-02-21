@@ -1,3 +1,10 @@
+.loading__page {
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+
 .loading {
     position: relative;
     width: 127px;
