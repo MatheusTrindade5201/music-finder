@@ -10,34 +10,6 @@ import Loading from "@/components/Loading"
 
 const MusicDetailPage = () => {
 
-    const InitialValues = {
-                title: '',
-                key: '',
-                subtitle: '',
-                images: {
-                        background: ''
-                },
-                genres: {
-                    primary: ''
-                },
-                sections: [
-                    {
-                        type: '',
-                        metadata: [{
-                            title:'',
-                            text: ''
-                        }],
-                        youtubeurl: {
-                            actions: [{
-                                uri: ''
-                            }]
-                        }
-                        
-                    }
-                ]
-            }
-    
-
     const id = useParams().id
 
     const [ currentMusic, setCurrentMusic ] = useState<Music>()
