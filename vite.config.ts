@@ -7,4 +7,7 @@ export default defineConfig({
     alias: [{ find: '@', replacement: '/src' }],
   },
   plugins: [react()],
+  define: {
+    'process.env': {},
+  },
 })
