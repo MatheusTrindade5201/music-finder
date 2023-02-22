@@ -28,6 +28,7 @@ const MusicDetailPage = () => {
         )
     }
     if(currentMusic !== undefined && recomendedList !== undefined && !isLoading){
+        console.log(currentMusic.hub.providers);
         
         return (
             <>
@@ -40,6 +41,7 @@ const MusicDetailPage = () => {
                         genre={currentMusic.genres.primary}
                         albun={currentMusic.sections.find((item: { type: string }) => item.type === 'SONG')?.metadata.find((item: { title: string }) => item.title === 'Album')?.text}
                         release={currentMusic.sections.find((item: { type: string }) => item.type === 'SONG')?.metadata.find((item: { title: string }) => item.title === 'Released')?.text}
+                        providers={currentMusic.hub.providers}
                     />
                     <MusicVideo link={currentMusic.sections.find((item: { type: string }) => item.type === 'VIDEO') ? currentMusic.sections.find((item: { type: string }) => item.type === 'VIDEO')?.youtubeurl.actions[0].uri : ''} />
                     <div className={style.musicDetails__recomendation_container}>

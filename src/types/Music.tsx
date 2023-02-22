@@ -22,7 +22,13 @@ export interface Music  {
             }
             
         }
-    ]
+    ],
+    hub: {
+        providers:[{
+            type: string
+        }]
+    }
+    
 }
 
 export interface recomended {
