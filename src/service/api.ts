@@ -6,10 +6,13 @@ export const detect = axios.create({
     baseURL: 'https://shazam.p.rapidapi.com/songs/v2/detect'
 })
 
+const apiKey = import.meta.env.VITE_API_KEY
+
+
 export const header = {
     headers: {
         'content-type': 'text/plain',
-        'X-RapidAPI-Key': '1ac846feb8msh2070e4e61a15b93p101491jsnbc75b565a6db',
+        'X-RapidAPI-Key': apiKey,
         'X-RapidAPI-Host': 'shazam.p.rapidapi.com'
     }
 }
