@@ -1,15 +1,24 @@
 import style from "@/styles/MusicDetails.module.css"
 
-const Infos = () => {
+interface Props {
+    image: string,
+    title: string,
+    author: string,
+    genre: string,
+    albun: string | undefined,
+    release: string | undefined
+}
+
+const Infos = ({image, title, author, genre, albun, release} : Props) => {
     return (
         <div className={style.musicDetails__infos_container}>
-            <img className={style.infos__image} src="/src/assets/images/image 4 (1).png" />
+            <img className={style.infos__image} src={image} />
             <div className={style.infos__details_container}>
-                <h1 className={style.infos__title}>Creepin'</h1>
-                <p className={style.info__text}>Metro Boomin, The weeknd & 21 Savage</p>
-                <p className={style.info__text}><span className={style.text__bold}>Gênero: </span>Trap music</p>
-                <p className={style.info__text}><span className={style.text__bold}>Album: </span>Heroes & Villains</p>
-                <p className={style.info__text}><span className={style.text__bold}>Lançamento: </span>Lançamento:   2022</p>
+                <h1 className={style.infos__title}>{title}</h1>
+                <p className={style.info__text}>{author}</p>
+                <p className={style.info__text}><span className={style.text__bold}>Gênero: </span>{genre}</p>
+                <p className={style.info__text}><span className={style.text__bold}>Album: </span>{albun}</p>
+                <p className={style.info__text}><span className={style.text__bold}>Lançamento: </span>{release}</p>
                 <p className={style.info__text}><span className={style.text__bold}>Disponível em: </span></p>
                 <ul>
 

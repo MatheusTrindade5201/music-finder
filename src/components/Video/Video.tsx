@@ -1,14 +1,14 @@
 import style from "@/styles/MusicDetails.module.css"
 
 interface Props {
-    link: string
+    link: string | undefined
 }
 
 const MusicVideo = ({link} : Props) => {
 
-    function getId(url: string) {
+    function getId(url: string | undefined) {
         const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/;
-        const match = url.match(regExp);
+        const match = url?.match(regExp);
     
         return (match && match[2].length === 11)
           ? match[2]
