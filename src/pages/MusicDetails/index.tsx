@@ -73,16 +73,18 @@ const MusicDetailPage = () => {
                     <div className={style.musicDetails__recomendation_container}>
                         <h3 className={style.recomendation__title}>Recomensações:</h3>
                         <div className={style.musicDetails__recomendation}>
-                            {recomendedList.tracks.map((track: { key: string; subtitle: string; images: { background: string; }; title: string; }) => 
-                                <Card
-                                key={track.key}
-                                author={track.subtitle}
-                                id={track.key}
-                                image={track.images?.background}
-                                title={track.title}
-                                smallCard={true}
-                                />
-                            )}
+                            {recomendedList.tracks !== undefined ? 
+                            recomendedList.tracks.map((track: { key: string; subtitle: string; images: { background: string; }; title: string; }) => 
+                            <Card
+                            key={track.key}
+                            author={track.subtitle}
+                            id={track.key}
+                            image={track.images?.background}
+                            title={track.title}
+                            smallCard={true}
+                            />
+                        ) : <p>Nenhuma recomendação encontrada</p>
+                            }
                         </div>
                     </div> 
                 </div>
