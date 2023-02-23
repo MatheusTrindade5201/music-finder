@@ -1,3 +1,4 @@
+import { useAuthentication } from '@/context/authenticationContext';
 import { searchEmail } from '@/service/login';
 import style from '@/styles/Form.module.css'
 import { useEffect, useState } from 'react';
@@ -8,6 +9,7 @@ const Input = () => {
 
     const [ email, setEmail ] = useState<string>('')
     const [ password, setPassword ] = useState<string>('')
+    const { generateToken } = useAuthentication()
 
     const navigate = useNavigate()
 
@@ -31,7 +33,7 @@ const Input = () => {
             <button 
                 onClick={(event) => {
                     event.preventDefault();
-                    searchEmail({password, email, navigate})
+                    searchEmail({password, email, navigate, generateToken})
                 }} 
                 type='submit'
                 className={style.form__button}

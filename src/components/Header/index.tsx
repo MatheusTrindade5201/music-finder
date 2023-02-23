@@ -1,3 +1,4 @@
+import { useAuthentication } from '@/context/authenticationContext'
 import style from '@/styles/Header.module.css'
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
@@ -6,6 +7,7 @@ import LinkButton from './LinkButton'
 const Header = () => {
 
     const [ open, setOpen ] = useState<boolean>(false)
+    const { deleteToken } = useAuthentication()
 
     const navigate = useNavigate()
 
@@ -18,7 +20,7 @@ const Header = () => {
                         <img className={style.picture} src='/src/assets/images/profile_icon.svg'/>
                         <p className={style.username}>Usiário01</p>
                     </div> 
-                    <button className={`${style.logout__button} ${open ? style.dropdown : ''}`} onClick={() => navigate('/')}>Sair</button>
+                    <button className={`${style.logout__button} ${open ? style.dropdown : ''}`} onClick={() => {navigate('/'); deleteToken()}}>Sair</button>
                 </div>
                 <nav className={style.header__links}>
                     <LinkButton 
