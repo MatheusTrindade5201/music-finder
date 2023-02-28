@@ -4,7 +4,7 @@ import { MusicListProvider } from "./context/musicListContext"
 import Login from "./pages/Login"
 import MusicList from "./pages/MusicList"
 import StandardPage from "./pages/StandardPage"
-import { AuthenticationProvider, useAuthentication } from "./context/authenticationContext"
+import { useAuthentication } from "./context/authenticationContext"
 
 const AppRoutes = () => {
 

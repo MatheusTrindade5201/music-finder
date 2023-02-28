@@ -18,7 +18,7 @@ const Header = () => {
                 <div onClick={() => setOpen(open ? false : true)} className={style.header__profile}>
                     <div  className={style.header__profile_container}>
                         <img className={style.picture} src='/src/assets/images/profile_icon.svg'/>
-                        <p className={style.username}>Usiário01</p>
+                        <p className={style.username}>Usuário01</p>
                     </div> 
                     <button className={`${style.logout__button} ${open ? style.dropdown : ''}`} onClick={() => {navigate('/'); deleteToken()}}>Sair</button>
                 </div>

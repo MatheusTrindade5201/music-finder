@@ -1,4 +1,5 @@
 import Card from '@/components/Card';
+import Loading from '@/components/Loading';
 import { MusicListContext } from '@/context/musicListContext';
 import { getMusicList } from '@/service/musicList';
 import style from '@/styles/MusicList.module.css'
@@ -15,9 +16,7 @@ const MusicList = () => {
 
     if(isLoading){
         return (
-            <main className={style.musicList__page}>
-                <span className={style.loading} />
-            </main>
+            <Loading />
         )
     }
 
@@ -33,6 +32,7 @@ const MusicList = () => {
         <main className={style.musicList__page}>
             <div className={style.musicList__container}>
                 {musicList.map(music => <Card 
+                     id={music.key}
                      title={music.title}
                      key={music.key}
                      author={music.subtitle}
