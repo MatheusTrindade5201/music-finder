@@ -4,6 +4,8 @@
     width: 206px;
     height: 272px;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+    text-decoration: none;
+    color: var(--white);
 }
 
 .card__image {
@@ -37,4 +39,24 @@
 .card__author {
     font-size: var(--font-size-xs);
     font-weight: 400;
+}
+
+.smallCard {
+    flex-direction: row;
+    width: 80%;
+    max-width: 347px;
+    height: 80px;
+}
+
+.smallCard .card__image{
+    width: 80px;
+    height: 80px;
+}
+
+.smallCard .card__info {
+    height: 100%;
+}
+
+.card__title, .card__author {
+    white-space: unset;
 }
