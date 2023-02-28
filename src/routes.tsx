@@ -4,21 +4,29 @@ import { MusicListProvider } from "./context/musicListContext"
 import Login from "./pages/Login"
 import MusicList from "./pages/MusicList"
 import StandardPage from "./pages/StandardPage"
-import MusicDetailPage from "./pages/MusicDetails"
+import { useAuthentication } from "./context/authenticationContext"
 
 const AppRoutes = () => {
+
+  const { token, getCurrentToken } = useAuthentication()
+  const currentToken = getCurrentToken() 
+  
+
   return (
     <BrowserRouter>
-      <MusicListProvider>
-        <Routes>
-            <Route path="/" element={<Login />} />
-            <Route path="/app" element={<StandardPage />}>
-              <Route path="/app/music-list" element={<MusicList />}/>
-              <Route path="/app/discover" element={<DicoverMusicPage />} />
-              <Route path="/app/:id" element={<MusicDetailPage />}/>
-            </Route>
-        </Routes>
-      </MusicListProvider>
+        <MusicListProvider>
+          <Routes>
+              <Route path="/" element={<Login />} />
+              {currentToken === token ? 
+              <Route path="/app" element={<StandardPage />}>
+                <Route path="/app/music-list" element={<MusicList />}/>
+                <Route path="/app/discover" element={<DicoverMusicPage />} />
+              </Route> :
+              <Route path="/*" element={<p>Você não está logado</p>} />
+            }
+              
+          </Routes>
+        </MusicListProvider>
     </BrowserRouter>
   )
 }
