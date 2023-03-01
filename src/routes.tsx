@@ -4,7 +4,8 @@ import { MusicListProvider } from "./context/musicListContext"
 import Login from "./pages/Login"
 import MusicList from "./pages/MusicList"
 import StandardPage from "./pages/StandardPage"
-import { useAuthentication } from "./context/authenticationContext"
+import { useAuthentication } from "@/hooks/authetication"
+import MusicDetailPage from "./pages/MusicDetails"
 
 const AppRoutes = () => {
 
@@ -21,6 +22,7 @@ const AppRoutes = () => {
               <Route path="/app" element={<StandardPage />}>
                 <Route path="/app/music-list" element={<MusicList />}/>
                 <Route path="/app/discover" element={<DicoverMusicPage />} />
+                <Route path="/app/:id" element={<MusicDetailPage />}/>
               </Route> :
               <Route path="/*" element={<p>Você não está logado</p>} />
             }
