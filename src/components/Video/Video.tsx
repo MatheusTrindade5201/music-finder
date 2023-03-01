@@ -19,7 +19,7 @@ const MusicVideo = ({link} : Props) => {
     return (
         <div className={style.musicDetails__video_container}>
             <h2>Clipe da música: </h2>
-            <iframe className={style.musicDetails__video} src={`https://www.youtube.com/embed/${getId(link)}`} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+            <iframe className={style.musicDetails__video} src={link !== undefined ? `https://www.youtube.com/embed/${getId(link)}` : ''} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         </div>
     )
 }
