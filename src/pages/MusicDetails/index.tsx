@@ -7,6 +7,7 @@ import { useParams } from "react-router-dom"
 import { useEffect, useState } from "react"
 import { getAllDetails } from "@/service/musicDetails"
 import Loading from "@/components/Loading"
+import { useHandleData } from "@/hooks/handleData";
 
 const MusicDetailPage = () => {
 
@@ -15,6 +16,7 @@ const MusicDetailPage = () => {
     const [ currentMusic, setCurrentMusic ] = useState<Music>()
     const [ recomendedList, setRecomendedList ] = useState<recomended>()
     const [isLoading, setIsLoading ] = useState<boolean>(true)
+    const { handleMusicInfo } = useHandleData()
     
     useEffect(() => {
         setIsLoading(true)
@@ -28,22 +30,19 @@ const MusicDetailPage = () => {
         )
     }
     if(currentMusic !== undefined && recomendedList !== undefined && !isLoading){
-        console.log(currentMusic.hub.providers);
+
+        const musicInfos = handleMusicInfo(currentMusic)
+        console.log(musicInfos);
         
+       
         return (
             <>
             <main className={style.musicDetails__page}>
                 <div className={style.musicDetails__content}>
                     <Infos 
-                        image={currentMusic.images.background}
-                        title={currentMusic.title}
-                        author={currentMusic.subtitle}
-                        genre={currentMusic.genres.primary}
-                        albun={currentMusic.sections.find((item: { type: string }) => item.type === 'SONG')?.metadata.find((item: { title: string }) => item.title === 'Album')?.text}
-                        release={currentMusic.sections.find((item: { type: string }) => item.type === 'SONG')?.metadata.find((item: { title: string }) => item.title === 'Released')?.text}
-                        providers={currentMusic.hub.providers}
+                        itens={musicInfos}
                     />
-                    <MusicVideo link={currentMusic.sections.find((item: { type: string }) => item.type === 'VIDEO') ? currentMusic.sections.find((item: { type: string }) => item.type === 'VIDEO')?.youtubeurl.actions[0].uri : ''} />
+                    <MusicVideo link={currentMusic.sections.find((item: { type: string }) => item.type === 'VIDEO')?.youtubeurl.actions[0].uri} />
                     <div className={style.musicDetails__recomendation_container}>
                         <h3 className={style.recomendation__title}>Recomensações:</h3>
                         <div className={style.musicDetails__recomendation}>
@@ -66,6 +65,7 @@ const MusicDetailPage = () => {
             </>
         )
     }
+    return <p>Erro</p>
 }
 
 export default MusicDetailPage
