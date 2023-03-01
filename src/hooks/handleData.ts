@@ -1,3 +1,4 @@
+import { getId } from "@/helpers/getId";
 import { Music, MusicInfo } from "@/types/Music"
 
 export const useHandleData = () => {
@@ -14,7 +15,14 @@ export const useHandleData = () => {
         return infos
     }
 
+    const handleVideoLink = (currentMusic: Music) => {
+        const link = currentMusic.sections.find((item: { type: string }) => item.type === 'VIDEO')?.youtubeurl.actions[0].uri;
+        const id = getId(link)
+        return id
+    }
+
     return{
-        handleMusicInfo
+        handleMusicInfo,
+        handleVideoLink
     }
 }

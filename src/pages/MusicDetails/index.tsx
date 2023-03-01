@@ -16,7 +16,7 @@ const MusicDetailPage = () => {
     const [ currentMusic, setCurrentMusic ] = useState<Music>()
     const [ recomendedList, setRecomendedList ] = useState<recomended>()
     const [isLoading, setIsLoading ] = useState<boolean>(true)
-    const { handleMusicInfo } = useHandleData()
+    const { handleMusicInfo, handleVideoLink } = useHandleData()
     
     useEffect(() => {
         setIsLoading(true)
@@ -31,9 +31,7 @@ const MusicDetailPage = () => {
     }
     if(currentMusic !== undefined && recomendedList !== undefined && !isLoading){
 
-        const musicInfos = handleMusicInfo(currentMusic)
-        console.log(musicInfos);
-        
+        const musicInfos = handleMusicInfo(currentMusic)       
        
         return (
             <>
@@ -42,7 +40,7 @@ const MusicDetailPage = () => {
                     <Infos 
                         itens={musicInfos}
                     />
-                    <MusicVideo link={currentMusic.sections.find((item: { type: string }) => item.type === 'VIDEO')?.youtubeurl.actions[0].uri} />
+                    <MusicVideo id={handleVideoLink(currentMusic)} />
                     <div className={style.musicDetails__recomendation_container}>
                         <h3 className={style.recomendation__title}>Recomensações:</h3>
                         <div className={style.musicDetails__recomendation}>
