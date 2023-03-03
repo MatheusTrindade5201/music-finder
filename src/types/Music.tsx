@@ -36,3 +36,17 @@ export interface recomended {
         
     ]
 }
+
+export interface MusicInfo {
+    image: string,
+    title: string,
+    author: string,
+    genre: string,
+    albun: string | undefined,
+    release: string | undefined,
+    providers: [
+        {
+            type:string
+        }
+    ]
+}

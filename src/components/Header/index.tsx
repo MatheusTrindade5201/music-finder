@@ -1,4 +1,4 @@
-import { useAuthentication } from '@/context/authenticationContext'
+import { useAuthentication } from '@/hooks/authetication'
 import style from '@/styles/Header.module.css'
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'

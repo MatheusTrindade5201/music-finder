@@ -1,4 +1,3 @@
-import { useAuthentication } from "@/context/authenticationContext";
 import axios from "axios";
 import { NavigateFunction } from "react-router-dom";
 
